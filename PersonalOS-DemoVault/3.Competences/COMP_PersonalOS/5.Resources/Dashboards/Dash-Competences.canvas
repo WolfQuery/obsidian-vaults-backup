@@ -1,0 +1,236 @@
+{
+  "edges": [
+  ],
+  "metadata": {
+  },
+  "nodes": [
+    {
+      "file": "3.Competences/COMP_PersonalOS/5.Resources/Widgets/Debuff widgets.md",
+      "height": 90,
+      "id": "2b48eccb3302bce5",
+      "styleAttributes": {
+      },
+      "subpath": "#^aea62d",
+      "type": "file",
+      "width": 600,
+      "x": -515,
+      "y": -975
+    },
+    {
+      "file": "3.Competences/COMP_PersonalOS/5.Resources/Widgets/Buff widgets.md",
+      "height": 90,
+      "id": "5ef5de1c5fa3b249",
+      "styleAttributes": {
+      },
+      "subpath": "#^fcc2ed",
+      "type": "file",
+      "width": 600,
+      "x": -515,
+      "y": -1065
+    },
+    {
+      "file": "3.Competences/COMP_PersonalOS/5.Resources/Widgets/Point and XP widgets.md",
+      "height": 110,
+      "id": "ba21aeaed8ef0302",
+      "styleAttributes": {
+      },
+      "subpath": "#^dc09fb",
+      "type": "file",
+      "width": 190,
+      "x": -295,
+      "y": -1295
+    },
+    {
+      "file": "3.Competences/COMP_PersonalOS/5.Resources/Widgets/Point and XP widgets.md",
+      "height": 120,
+      "id": "f51b1a7717aa4280",
+      "styleAttributes": {
+      },
+      "subpath": "#^e1e67b",
+      "type": "file",
+      "width": 380,
+      "x": -295,
+      "y": -1185
+    },
+    {
+      "file": "3.Competences/COMP_PersonalOS/5.Resources/Widgets/Avatar widgets.md",
+      "height": 230,
+      "id": "30965b2c5ade1fe4",
+      "styleAttributes": {
+      },
+      "subpath": "#^0dc07d",
+      "type": "file",
+      "width": 220,
+      "x": -515,
+      "y": -1295
+    },
+    {
+      "file": "3.Competences/COMP_PersonalOS/5.Resources/Widgets/Competences widgets.md",
+      "height": 110,
+      "id": "ff2af15f6e7c7790",
+      "styleAttributes": {
+      },
+      "subpath": "#^e3c977",
+      "type": "file",
+      "width": 190,
+      "x": -105,
+      "y": -1295
+    },
+    {
+      "color": "6",
+      "file": "3.Competences/COMP_PersonalOS/5.Resources/Widgets/Guides and Howto Widgets.md",
+      "height": 505,
+      "id": "387315e52298c43d",
+      "styleAttributes": {
+      },
+      "subpath": "#My guides",
+      "type": "file",
+      "width": 300,
+      "x": -515,
+      "y": -765
+    },
+    {
+      "color": "2",
+      "file": "3.Competences/COMP_PersonalOS/5.Resources/Widgets/Competences widgets.md",
+      "height": 110,
+      "id": "63a30ac12f5f86df",
+      "styleAttributes": {
+      },
+      "subpath": "#^94cea6",
+      "type": "file",
+      "width": 245,
+      "x": -1005,
+      "y": -1295
+    },
+    {
+      "color": "2",
+      "file": "3.Competences/COMP_PersonalOS/5.Resources/Widgets/Competences widgets.md",
+      "height": 420,
+      "id": "c4e12752831d2689",
+      "styleAttributes": {
+      },
+      "subpath": "#My competences overview",
+      "type": "file",
+      "width": 490,
+      "x": -1005,
+      "y": -1185
+    },
+    {
+      "color": "6",
+      "file": "3.Competences/COMP_PersonalOS/5.Resources/Widgets/Guides and Howto Widgets.md",
+      "height": 120,
+      "id": "be9c37ac1cd9ace3",
+      "styleAttributes": {
+      },
+      "subpath": "#^4d34e1",
+      "type": "file",
+      "width": 300,
+      "x": -515,
+      "y": -885
+    },
+    {
+      "color": "3",
+      "file": "3.Competences/COMP_PersonalOS/5.Resources/Widgets/Tactics widgets.md",
+      "height": 420,
+      "id": "71658a6d4d912793",
+      "styleAttributes": {
+      },
+      "subpath": "#My tactics",
+      "type": "file",
+      "width": 490,
+      "x": 85,
+      "y": -1185
+    },
+    {
+      "color": "6",
+      "file": "3.Competences/COMP_PersonalOS/5.Resources/Widgets/Knowledge Widgets.md",
+      "height": 120,
+      "id": "edbfb7d5534860ae",
+      "styleAttributes": {
+      },
+      "subpath": "#^b371b4",
+      "type": "file",
+      "width": 300,
+      "x": -215,
+      "y": -885
+    },
+    {
+      "color": "6",
+      "file": "3.Competences/COMP_PersonalOS/5.Resources/Widgets/Knowledge Widgets.md",
+      "height": 505,
+      "id": "e64f0cd03168c02c",
+      "styleAttributes": {
+      },
+      "subpath": "#My knowledge",
+      "type": "file",
+      "width": 300,
+      "x": -215,
+      "y": -765
+    },
+    {
+      "color": "3",
+      "file": "3.Competences/COMP_PersonalOS/5.Resources/Widgets/Tactics widgets.md",
+      "height": 110,
+      "id": "ecf9053cbde08a1e",
+      "styleAttributes": {
+      },
+      "subpath": "#^765e21",
+      "type": "file",
+      "width": 245,
+      "x": 85,
+      "y": -1295
+    },
+    {
+      "color": "5",
+      "file": "3.Competences/COMP_PersonalOS/5.Resources/Widgets/Trainings widgets.md",
+      "height": 110,
+      "id": "390673e8be958fcc",
+      "styleAttributes": {
+      },
+      "subpath": "#^3aaec2",
+      "type": "file",
+      "width": 245,
+      "x": 330,
+      "y": -1295
+    },
+    {
+      "color": "3",
+      "file": "3.Competences/COMP_PersonalOS/5.Resources/Widgets/Skills widgets.md",
+      "height": 110,
+      "id": "2bbf7378383eb28d",
+      "styleAttributes": {
+      },
+      "subpath": "#^a0207c",
+      "type": "file",
+      "width": 245,
+      "x": -760,
+      "y": -1295
+    },
+    {
+      "color": "5",
+      "file": "3.Competences/COMP_PersonalOS/5.Resources/Widgets/Trainings widgets.md",
+      "height": 505,
+      "id": "1dd935994d228ab1",
+      "styleAttributes": {
+      },
+      "subpath": "#Training history",
+      "type": "file",
+      "width": 490,
+      "x": 85,
+      "y": -765
+    },
+    {
+      "color": "3",
+      "file": "3.Competences/COMP_PersonalOS/5.Resources/Widgets/Competences widgets.md",
+      "height": 505,
+      "id": "6fcee7843c88bc2c",
+      "styleAttributes": {
+      },
+      "subpath": "#My skill tree",
+      "type": "file",
+      "width": 490,
+      "x": -1005,
+      "y": -765
+    }
+  ]
+}

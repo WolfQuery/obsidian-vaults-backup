@@ -1,0 +1,1439 @@
+{
+  "workspaces": {
+    "Engaging": {
+      "main": {
+        "id": "b13e6a947bac5b71",
+        "type": "split",
+        "children": [
+          {
+            "id": "4f94dfdd05057fe7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ad90f0a259e6423a",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "3.Competences/COMP_PersonalOS/5.Resources/Dashboards/Dash-Engage.canvas",
+                    "viewState": {
+                      "x": -1183.9023571013227,
+                      "y": -1069.564075996857,
+                      "zoom": -0.3333333333333333
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Dash-Engage"
+                }
+              },
+              {
+                "id": "59ff3528f0a87641",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "3.Competences/COMP_PersonalOS/1.Missions/000 - Arcs/Launch my personal operating system.canvas",
+                    "viewState": {
+                      "x": -2402.154716981132,
+                      "y": -288.24905660377357,
+                      "zoom": -0.6763696098816372
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Launch my personal operating system"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "6991f86a505ceecd",
+        "type": "split",
+        "children": [
+          {
+            "id": "da99683665f68a14",
+            "type": "tabs",
+            "dimension": 53.73737373737374,
+            "children": [
+              {
+                "id": "8a9fbdf5f60322da",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "d587733933e70de7",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              },
+              {
+                "id": "62f1f8092e0eb89d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "34b1abb4baec3cf3",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "ffa086b6e033b4b3",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "file : creating ",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              }
+            ]
+          },
+          {
+            "id": "504113f6375f8971",
+            "type": "tabs",
+            "dimension": 46.26262626262626,
+            "children": [
+              {
+                "id": "aeb063b6e8111031",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "3.Competences/COMP_PersonalOS/5.Resources/Widgets/Current status widget.canvas",
+                    "viewState": {
+                      "x": -1255.8824400558276,
+                      "y": -1441.2200643184883,
+                      "zoom": -0.3333333333333333
+                    }
+                  },
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Current status widget"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 462.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "098238d57e20c7ac",
+        "type": "split",
+        "children": [
+          {
+            "id": "e7692204bc6a1970",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fe68a4b000f81d9e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3.Competences/COMP_PersonalOS/1.Missions/001 - Personal OS tutorial/Resources/Shortcuts and hotkey Help.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Shortcuts and hotkey Help"
+                }
+              },
+              {
+                "id": "20c48b087d14f63a",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "3.Competences/COMP_PersonalOS/Dashboards/Dash-Cockpit.canvas",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": true,
+                    "searchQuery": "file",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for Dash-Cockpit"
+                }
+              },
+              {
+                "id": "725791ca07d3eca7",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "3.Competences/COMP_PersonalOS/5.Resources/Tools/Global mind sweep trigger list.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from Dash-Cockpit"
+                }
+              },
+              {
+                "id": "11551e26e76820ee",
+                "type": "leaf",
+                "state": {
+                  "type": "timetracker-sidebar",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Timetracker sidebar"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 421.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-excalidraw-plugin:New drawing": true,
+          "homepage:Open homepage": false,
+          "templater-obsidian:Templater": true,
+          "omnisearch:Omnisearch": false,
+          "templates:Insert template": true,
+          "switcher:Open quick switcher": true,
+          "graph:Open graph view": true,
+          "canvas:Create new canvas": true,
+          "daily-notes:Open today's daily note": true,
+          "command-palette:Open command palette": true,
+          "workspaces:Manage workspace layouts": true,
+          "obsidian-excalidraw-plugin:Create new drawing": true,
+          "cmdr:Create new note": false,
+          "cmdr:Engage": false,
+          "cmdr:Process": false,
+          "cmdr:Snooze tasks": false,
+          "cmdr:Toggle action hider": false
+        }
+      },
+      "active": "59ff3528f0a87641",
+      "mtime": "2025-03-16T17:47:29+01:00",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": []
+      }
+    },
+    "Processing": {
+      "main": {
+        "id": "b13e6a947bac5b71",
+        "type": "split",
+        "children": [
+          {
+            "id": "41958a62b9da657d",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bf5eb5db8480c012",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "3.Competences/COMP_PersonalOS/5.Resources/Dashboards/Dash-Process.canvas",
+                    "viewState": {
+                      "x": -18.00976418963296,
+                      "y": -547.7470862679353,
+                      "zoom": -0.3333333333333333
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Dash-Process"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "6991f86a505ceecd",
+        "type": "split",
+        "children": [
+          {
+            "id": "da99683665f68a14",
+            "type": "tabs",
+            "dimension": 56.666666666666664,
+            "children": [
+              {
+                "id": "8a9fbdf5f60322da",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "d69c2e09f73026b2",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              },
+              {
+                "id": "62f1f8092e0eb89d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "9b42bb29e58eff4e",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "ffa086b6e033b4b3",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              }
+            ]
+          },
+          {
+            "id": "6b4839f40168fbf9",
+            "type": "tabs",
+            "dimension": 43.333333333333336,
+            "children": [
+              {
+                "id": "7357f5f6091944ad",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "3.Competences/COMP_PersonalOS/5.Resources/Widgets/Current status widget.canvas",
+                    "viewState": {
+                      "x": -1253.0141821165407,
+                      "y": -1425.4409631811131,
+                      "zoom": -0.6666666666666666
+                    }
+                  },
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Current status widget"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 387.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "098238d57e20c7ac",
+        "type": "split",
+        "children": [
+          {
+            "id": "e7692204bc6a1970",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bf09d05ec1f4e60b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3.Competences/COMP_PersonalOS/1.Missions/001 - Personal OS tutorial/Knowledge/Personal OS simple file processing flowchart.md",
+                    "mode": "preview",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Personal OS simple file processing flowchart"
+                }
+              },
+              {
+                "id": "dcfb8fb91dbd6275",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3.Competences/COMP_PersonalOS/1.Missions/004 - Processing mastery/Knowledge/Personal OS advanced file processing flowchart.md",
+                    "mode": "preview",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Personal OS advanced file processing flowchart"
+                }
+              },
+              {
+                "id": "20c48b087d14f63a",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "3.Competences/COMP_PersonalOS/1.Missions/001 - Get lvl 1 - Applying Personal OS/Resources/Shortcuts and hotkey Help.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for Dash-Process"
+                }
+              },
+              {
+                "id": "725791ca07d3eca7",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "3.Competences/COMP_PersonalOS/5.Resources/Dashboards/Dash-Process.canvas",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from Dash-Process"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 570.5
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "obsidian-excalidraw-plugin:New drawing": true,
+          "homepage:Open homepage": false,
+          "omnisearch:Omnisearch": false,
+          "cmdr:Create new note": false,
+          "cmdr:Engage": false,
+          "cmdr:Process": false,
+          "templater-obsidian:Templater": true,
+          "templates:Insert template": true,
+          "obsidian-excalidraw-plugin:Create new drawing": true,
+          "switcher:Open quick switcher": true,
+          "graph:Open graph view": true,
+          "canvas:Create new canvas": true,
+          "daily-notes:Open today's daily note": true,
+          "command-palette:Open command palette": true,
+          "workspaces:Manage workspace layouts": true,
+          "cmdr:Snooze tasks": false,
+          "cmdr:Toggle action hider": false
+        }
+      },
+      "active": "bf5eb5db8480c012",
+      "mtime": "2025-03-16T17:49:26+01:00",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": []
+      }
+    },
+    "Engaging Mobile": {
+      "main": {
+        "id": "b13e6a947bac5b71",
+        "type": "split",
+        "children": [
+          {
+            "id": "b5e78952480a173c",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a9d829567787c9b8",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "3.Competences/COMP_PersonalOS/5.Resources/Dashboards/Dash-Engage.canvas",
+                    "viewState": {
+                      "x": -1188.5027727988697,
+                      "y": -1076.1441575716815,
+                      "zoom": -0.6867492742344729
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Dash-Engage"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "184b40b4db07db97",
+        "type": "mobile-drawer",
+        "children": [
+          {
+            "id": "12bfdd7d778ba61f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3046fbc50d02c637",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "35278c823dd96145",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "23497dace15c2ed9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0a7316de540343af",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 0
+      },
+      "right": {
+        "id": "c82332d9e97b55d4",
+        "type": "mobile-drawer",
+        "children": [
+          {
+            "id": "5525280b9a1be8c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3.Competences/COMP_PersonalOS/5.Resources/Widgets/Handled widgets.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "4febbd3e0d34ad59",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3.Competences/COMP_PersonalOS/5.Resources/Dashboards/Dash-Engage.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "e3df6b52706eb5d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "3.Competences/COMP_PersonalOS/5.Resources/Dashboards/Dash-Engage.canvas"
+              },
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
+          },
+          {
+            "id": "6e26d136b11f31fe",
+            "type": "leaf",
+            "state": {
+              "type": "timetracker-sidebar",
+              "state": {},
+              "icon": "clock",
+              "title": "Timetracker sidebar"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "homepage:Open homepage": false,
+          "templater-obsidian:Templater": true,
+          "cmdr:Engage": false,
+          "cmdr:Process": false,
+          "cmdr:Snooze tasks": false,
+          "cmdr:Toggle task hider": false,
+          "omnisearch:Omnisearch": false,
+          "obsidian-plugin-update-tracker:Plugin Update Tracker": true,
+          "templates:Insert template": true,
+          "switcher:Open quick switcher": true,
+          "graph:Open graph view": true,
+          "canvas:Create new canvas": true,
+          "daily-notes:Open today's daily note": true,
+          "command-palette:Open command palette": true,
+          "cmdr:Create new note": false,
+          "workspaces:Manage workspace layouts": false,
+          "obsidian42-brat:BRAT": true,
+          "obsidian-excalidraw-plugin:Create new drawing": true
+        }
+      },
+      "active": "a9d829567787c9b8",
+      "mtime": "2024-12-04T15:54:23+01:00"
+    },
+    "Processing Mobile": {
+      "main": {
+        "id": "b13e6a947bac5b71",
+        "type": "split",
+        "children": [
+          {
+            "id": "4f94dfdd05057fe7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b4e6700ca133e9d3",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "3.Competences/COMP_PersonalOS/5.Resources/Dashboards/Dash-Process.canvas",
+                    "viewState": {
+                      "x": 87.83364670617239,
+                      "y": -1172.1759646279475,
+                      "zoom": -1.4334364101043529
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Dash-Process"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "184b40b4db07db97",
+        "type": "mobile-drawer",
+        "children": [
+          {
+            "id": "12bfdd7d778ba61f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "3046fbc50d02c637",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "35278c823dd96145",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "23497dace15c2ed9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "0a7316de540343af",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 0
+      },
+      "right": {
+        "id": "c82332d9e97b55d4",
+        "type": "mobile-drawer",
+        "children": [
+          {
+            "id": "5525280b9a1be8c6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3.Competences/COMP_PersonalOS/5.Resources/Widgets/Handled widgets.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "4febbd3e0d34ad59",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3.Competences/COMP_PersonalOS/5.Resources/Dashboards/Dash-Engage.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "e3df6b52706eb5d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "3.Competences/COMP_PersonalOS/5.Resources/Dashboards/Dash-Process.canvas"
+              },
+              "icon": "lucide-info",
+              "title": "File properties"
+            }
+          },
+          {
+            "id": "6e26d136b11f31fe",
+            "type": "leaf",
+            "state": {
+              "type": "timetracker-sidebar",
+              "state": {},
+              "icon": "clock",
+              "title": "Timetracker sidebar"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "homepage:Open homepage": false,
+          "templater-obsidian:Templater": true,
+          "cmdr:Engage": false,
+          "cmdr:Process": false,
+          "cmdr:Snooze tasks": false,
+          "cmdr:Toggle task hider": false,
+          "omnisearch:Omnisearch": false,
+          "obsidian-plugin-update-tracker:Plugin Update Tracker": true,
+          "templates:Insert template": true,
+          "switcher:Open quick switcher": true,
+          "graph:Open graph view": true,
+          "canvas:Create new canvas": true,
+          "daily-notes:Open today's daily note": true,
+          "command-palette:Open command palette": true,
+          "cmdr:Create new note": false,
+          "workspaces:Manage workspace layouts": false,
+          "obsidian42-brat:BRAT": true,
+          "obsidian-excalidraw-plugin:Create new drawing": true
+        }
+      },
+      "active": "b4e6700ca133e9d3",
+      "mtime": "2024-12-04T15:45:57+01:00"
+    },
+    "OSPrevious": {
+      "main": {
+        "id": "b13e6a947bac5b71",
+        "type": "split",
+        "children": [
+          {
+            "id": "4f94dfdd05057fe7",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ad90f0a259e6423a",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "3.Competences/COMP_PersonalOS/5.Resources/Dashboards/Dash-Engage.canvas",
+                    "viewState": {
+                      "x": -1184,
+                      "y": -1006.9999999999999,
+                      "zoom": 0
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Dash-Engage"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "6991f86a505ceecd",
+        "type": "split",
+        "children": [
+          {
+            "id": "f02ab279d47b9c70",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "12d4534c3bf4b1b2",
+                "type": "leaf",
+                "state": {
+                  "type": "file-properties",
+                  "state": {
+                    "file": "3.Competences/COMP_PersonalOS/5.Resources/Dashboards/Dash-Engage.canvas"
+                  },
+                  "icon": "lucide-info",
+                  "title": "File properties for Dash-Engage"
+                }
+              }
+            ]
+          },
+          {
+            "id": "da99683665f68a14",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "aeb063b6e8111031",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "3.Competences/COMP_PersonalOS/5.Resources/Widgets/Current status widget.canvas",
+                    "viewState": {
+                      "x": -1257.1423611057226,
+                      "y": -1085.9223282481341,
+                      "zoom": -0.3333333333333333
+                    }
+                  },
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Current status widget"
+                }
+              },
+              {
+                "id": "8a9fbdf5f60322da",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "d587733933e70de7",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              },
+              {
+                "id": "62f1f8092e0eb89d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "34b1abb4baec3cf3",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "ffa086b6e033b4b3",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "file : creating ",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 472.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "098238d57e20c7ac",
+        "type": "split",
+        "children": [
+          {
+            "id": "e7692204bc6a1970",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "20c48b087d14f63a",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "3.Competences/COMP_PersonalOS/Dashboards/Dash-Cockpit.canvas",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": true,
+                    "searchQuery": "file",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for Dash-Cockpit"
+                }
+              },
+              {
+                "id": "725791ca07d3eca7",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "3.Competences/COMP_PersonalOS/5.Resources/Tools/Global mind sweep trigger list.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from Dash-Cockpit"
+                }
+              },
+              {
+                "id": "11551e26e76820ee",
+                "type": "leaf",
+                "state": {
+                  "type": "timetracker-sidebar",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Timetracker sidebar"
+                }
+              }
+            ],
+            "currentTab": 2
+          }
+        ],
+        "direction": "horizontal",
+        "width": 421.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "remotely-save:Remotely Save": false,
+          "obsidian-excalidraw-plugin:New drawing": false,
+          "cmdr:Toggle action hider": false,
+          "homepage:Open homepage": false,
+          "templater-obsidian:Templater": true,
+          "omnisearch:Omnisearch": false,
+          "templates:Insert template": true,
+          "switcher:Open quick switcher": true,
+          "graph:Open graph view": true,
+          "canvas:Create new canvas": true,
+          "daily-notes:Open today's daily note": true,
+          "command-palette:Open command palette": true,
+          "workspaces:Manage workspace layouts": true,
+          "cmdr:Create new note": false,
+          "cmdr:Engage": false,
+          "cmdr:Process": false,
+          "cmdr:Snooze tasks": false
+        }
+      },
+      "active": "ad90f0a259e6423a",
+      "mtime": "2025-03-31T19:49:49+02:00",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": []
+      }
+    },
+    "Collecting": {
+      "main": {
+        "id": "b13e6a947bac5b71",
+        "type": "split",
+        "children": [
+          {
+            "id": "1fe21eeac0872a2c",
+            "type": "tabs",
+            "dimension": 60.388739946380696,
+            "children": [
+              {
+                "id": "50b42bc147f6e482",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "3.Competences/COMP_PersonalOS/5.Resources/Dashboards/Dash-Home.canvas",
+                    "viewState": {
+                      "x": -300,
+                      "y": -330,
+                      "zoom": -0.8626919501397875
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Dash-Home"
+                }
+              },
+              {
+                "id": "a51f6e7313521bff",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3.Competences/COMP_PersonalOS/1.Missions/001 - Personal OS tutorial/Knowledge/The brain is a bad organizing tool.md",
+                    "mode": "preview",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "The brain is a bad organizing tool"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "d0a77eb9d4edda6e",
+            "type": "split",
+            "dimension": 39.611260053619304,
+            "children": [
+              {
+                "id": "bd3b5d34ba508ad6",
+                "type": "tabs",
+                "dimension": 42.15686274509804,
+                "children": [
+                  {
+                    "id": "a42cfd3b68f749f5",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "3.Competences/COMP_PersonalOS/1.Missions/003 - A clear mind/Knowledge/Mind sweeping instructions.md",
+                        "mode": "preview",
+                        "source": false,
+                        "backlinks": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Mind sweeping instructions"
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "3710ba166247b357",
+                "type": "tabs",
+                "dimension": 57.84313725490197,
+                "children": [
+                  {
+                    "id": "51522f34c4681f42",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "3.Competences/COMP_PersonalOS/1.Missions/003 - A clear mind/Resources/Global mind sweep trigger list.md",
+                        "mode": "preview",
+                        "source": false,
+                        "backlinks": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Global mind sweep trigger list"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "6991f86a505ceecd",
+        "type": "split",
+        "children": [
+          {
+            "id": "da99683665f68a14",
+            "type": "tabs",
+            "dimension": 53.73737373737374,
+            "children": [
+              {
+                "id": "8a9fbdf5f60322da",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "d587733933e70de7",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              },
+              {
+                "id": "62f1f8092e0eb89d",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "34b1abb4baec3cf3",
+                "type": "leaf",
+                "state": {
+                  "type": "all-properties",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-archive",
+                  "title": "All properties"
+                }
+              },
+              {
+                "id": "ffa086b6e033b4b3",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "file : creating ",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": true,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              }
+            ]
+          },
+          {
+            "id": "504113f6375f8971",
+            "type": "tabs",
+            "dimension": 46.26262626262626,
+            "children": [
+              {
+                "id": "aeb063b6e8111031",
+                "type": "leaf",
+                "state": {
+                  "type": "canvas",
+                  "state": {
+                    "file": "3.Competences/COMP_PersonalOS/5.Resources/Widgets/Current status widget.canvas",
+                    "viewState": {
+                      "x": -1255.8824400558276,
+                      "y": -1441.2200643184883,
+                      "zoom": -0.3333333333333333
+                    }
+                  },
+                  "icon": "lucide-layout-dashboard",
+                  "title": "Current status widget"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 462.5,
+        "collapsed": true
+      },
+      "right": {
+        "id": "098238d57e20c7ac",
+        "type": "split",
+        "children": [
+          {
+            "id": "e7692204bc6a1970",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "fe68a4b000f81d9e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "3.Competences/COMP_PersonalOS/1.Missions/001 - Personal OS tutorial/Resources/Shortcuts and hotkey Help.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Shortcuts and hotkey Help"
+                }
+              },
+              {
+                "id": "20c48b087d14f63a",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "3.Competences/COMP_PersonalOS/Dashboards/Dash-Cockpit.canvas",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": true,
+                    "searchQuery": "file",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for Dash-Cockpit"
+                }
+              },
+              {
+                "id": "725791ca07d3eca7",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "3.Competences/COMP_PersonalOS/5.Resources/Tools/Global mind sweep trigger list.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from Dash-Cockpit"
+                }
+              },
+              {
+                "id": "11551e26e76820ee",
+                "type": "leaf",
+                "state": {
+                  "type": "timetracker-sidebar",
+                  "state": {},
+                  "icon": "clock",
+                  "title": "Timetracker sidebar"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 421.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "remotely-save:Remotely Save": false,
+          "obsidian-excalidraw-plugin:New drawing": true,
+          "homepage:Open homepage": false,
+          "templater-obsidian:Templater": true,
+          "omnisearch:Omnisearch": false,
+          "templates:Insert template": true,
+          "switcher:Open quick switcher": true,
+          "graph:Open graph view": true,
+          "canvas:Create new canvas": true,
+          "daily-notes:Open today's daily note": true,
+          "command-palette:Open command palette": true,
+          "workspaces:Manage workspace layouts": true,
+          "cmdr:Create new note": false,
+          "cmdr:Engage": false,
+          "cmdr:Process": false,
+          "cmdr:Snooze tasks": false,
+          "cmdr:Toggle action hider": false
+        }
+      },
+      "active": "51522f34c4681f42",
+      "mtime": "2025-04-04T12:09:55+02:00",
+      "workspaces-plus:settings-v1": {
+        "explorerFoldState": []
+      }
+    }
+  },
+  "active": "Engaging"
+}

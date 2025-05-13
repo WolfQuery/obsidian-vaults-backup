@@ -1,0 +1,36 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-note
+---
+# Index of Backgrounds
+
+- [Acolyte](acolyte.md)
+- [Azorius Functionary](azorius-functionary-ggr.md)
+- [Boros Legionnaire](boros-legionnaire-ggr.md)
+- [Charlatan](charlatan.md)
+- [Criminal (Spy) (Variant)](criminal-spy-variant.md)
+- [Criminal](criminal.md)
+- [Custom Background](custom-background.md)
+- [Dimir Operative](dimir-operative-ggr.md)
+- [Entertainer (Gladiator) (Variant)](entertainer-gladiator-variant.md)
+- [Entertainer](entertainer.md)
+- [Folk Hero](folk-hero.md)
+- [Golgari Agent](golgari-agent-ggr.md)
+- [Gruul Anarch](gruul-anarch-ggr.md)
+- [Guild Artisan (Guild Merchant) (Variant)](guild-artisan-guild-merchant-variant.md)
+- [Guild Artisan](guild-artisan.md)
+- [Hermit](hermit.md)
+- [Izzet Engineer](izzet-engineer-ggr.md)
+- [Noble (Knight) (Variant)](noble-knight-variant.md)
+- [Noble (Retainers) (Variant)](noble-retainers-variant.md)
+- [Noble](noble.md)
+- [Orzhov Representative](orzhov-representative-ggr.md)
+- [Outlander](outlander.md)
+- [Rakdos Cultist](rakdos-cultist-ggr.md)
+- [Sage](sage.md)
+- [Sailor (Pirate) (Variant)](sailor-pirate-variant.md)
+- [Sailor](sailor.md)
+- [Selesnya Initiate](selesnya-initiate-ggr.md)
+- [Simic Scientist](simic-scientist-ggr.md)
+- [Soldier](soldier.md)
+- [Urchin](urchin.md)

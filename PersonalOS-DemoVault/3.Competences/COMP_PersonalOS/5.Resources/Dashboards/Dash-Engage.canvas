@@ -1,0 +1,359 @@
+{
+  "edges": [
+    {
+      "fromNode": "6c175f54f97f8e74",
+      "fromSide": "right",
+      "id": "d9d5641efae50e20",
+      "styleAttributes": {
+      },
+      "toNode": "6a917ad5bf6d7cf2",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "d2f84b323bbc1a9f",
+      "fromSide": "right",
+      "id": "0a261efef366fc6e",
+      "styleAttributes": {
+      },
+      "toNode": "a8358b28ab9fee92",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "3ffcc95caf830a0c",
+      "fromSide": "bottom",
+      "id": "a54da7ae67faff3d",
+      "styleAttributes": {
+      },
+      "toNode": "aefcbc7e10b8f614",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "3ffcc95caf830a0c",
+      "fromSide": "bottom",
+      "id": "83a12864c70aafbd",
+      "styleAttributes": {
+      },
+      "toNode": "bfbcab78d80187b0",
+      "toSide": "left"
+    },
+    {
+      "fromNode": "bad889d983231899",
+      "fromSide": "bottom",
+      "id": "4b3c772ab9662a74",
+      "styleAttributes": {
+      },
+      "toNode": "6a151573de02eddf",
+      "toSide": "top"
+    },
+    {
+      "fromNode": "e501d78127238644",
+      "fromSide": "left",
+      "id": "756bd9a9eae56d13",
+      "styleAttributes": {
+      },
+      "toNode": "a25b2eb7780564d1",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "e501d78127238644",
+      "fromSide": "left",
+      "id": "c658e191162eb079",
+      "styleAttributes": {
+      },
+      "toNode": "b092fcc4672e718d",
+      "toSide": "right"
+    },
+    {
+      "fromNode": "322290054b26223a",
+      "fromSide": "left",
+      "id": "6b3a70ead5ad9fbe",
+      "styleAttributes": {
+      },
+      "toNode": "d7c3cd1fd075b8dd",
+      "toSide": "right"
+    }
+  ],
+  "metadata": {
+  },
+  "nodes": [
+    {
+      "file": "3.Competences/COMP_PersonalOS/5.Resources/Widgets/Point and XP widgets.md",
+      "height": 110,
+      "id": "bf89e429e2e11bc4",
+      "styleAttributes": {
+      },
+      "subpath": "#^dc09fb",
+      "type": "file",
+      "width": 190,
+      "x": -1300,
+      "y": -1060
+    },
+    {
+      "file": "3.Competences/COMP_PersonalOS/5.Resources/Widgets/Point and XP widgets.md",
+      "height": 110,
+      "id": "0113e26b134c129e",
+      "styleAttributes": {
+      },
+      "subpath": "#^e1e67b",
+      "type": "file",
+      "width": 380,
+      "x": -1300,
+      "y": -950
+    },
+    {
+      "file": "3.Competences/COMP_PersonalOS/5.Resources/Widgets/Avatar widgets.md",
+      "height": 220,
+      "id": "6a917ad5bf6d7cf2",
+      "styleAttributes": {
+      },
+      "subpath": "#^0dc07d",
+      "type": "file",
+      "width": 220,
+      "x": -1520,
+      "y": -1060
+    },
+    {
+      "color": "5",
+      "file": "3.Competences/COMP_PersonalOS/5.Resources/Widgets/Due widgets.md",
+      "height": 100,
+      "id": "bfbcab78d80187b0",
+      "styleAttributes": {
+      },
+      "subpath": "#^79d4d8",
+      "type": "file",
+      "width": 180,
+      "x": -1520,
+      "y": -1360
+    },
+    {
+      "file": "3.Competences/COMP_PersonalOS/5.Resources/Widgets/Handled widgets.md",
+      "height": 80,
+      "id": "5360e89c4d04735a",
+      "styleAttributes": {
+      },
+      "subpath": "#^cf21a0",
+      "type": "file",
+      "width": 600,
+      "x": -1520,
+      "y": -1260
+    },
+    {
+      "file": "3.Competences/COMP_PersonalOS/5.Resources/Widgets/Focus Tree widgets.md",
+      "height": 120,
+      "id": "d7c3cd1fd075b8dd",
+      "styleAttributes": {
+      },
+      "subpath": "#^f75b84",
+      "type": "file",
+      "width": 600,
+      "x": -1520,
+      "y": -1180
+    },
+    {
+      "color": "4",
+      "file": "3.Competences/COMP_PersonalOS/5.Resources/Widgets/Handled widgets.md",
+      "height": 100,
+      "id": "b092fcc4672e718d",
+      "styleAttributes": {
+      },
+      "subpath": "#^0646c5",
+      "type": "file",
+      "width": 180,
+      "x": -1100,
+      "y": -1360
+    },
+    {
+      "color": "6",
+      "file": "3.Competences/COMP_PersonalOS/5.Resources/Widgets/Next widgets.md",
+      "height": 100,
+      "id": "a3bd278837bfd767",
+      "styleAttributes": {
+      },
+      "subpath": "#^3122e0",
+      "type": "file",
+      "width": 180,
+      "x": -1310,
+      "y": -1360
+    },
+    {
+      "color": "5",
+      "height": 60,
+      "id": "aefcbc7e10b8f614",
+      "styleAttributes": {
+      },
+      "text": "[[Due widgets|Due]]",
+      "type": "text",
+      "width": 180,
+      "x": -1520,
+      "y": -1420
+    },
+    {
+      "color": "6",
+      "height": 60,
+      "id": "6a151573de02eddf",
+      "styleAttributes": {
+      },
+      "text": "[[Next widgets|Next]]",
+      "type": "text",
+      "width": 180,
+      "x": -1310,
+      "y": -1420
+    },
+    {
+      "color": "4",
+      "height": 60,
+      "id": "a25b2eb7780564d1",
+      "styleAttributes": {
+      },
+      "text": "[[Handled widgets|Handled]]",
+      "type": "text",
+      "width": 180,
+      "x": -1100,
+      "y": -1420
+    },
+    {
+      "file": "3.Competences/COMP_PersonalOS/5.Resources/Widgets/Competences widgets.md",
+      "height": 110,
+      "id": "8f085d99c4deeb3c",
+      "styleAttributes": {
+      },
+      "subpath": "#^e3c977",
+      "type": "file",
+      "width": 190,
+      "x": -1110,
+      "y": -1060
+    },
+    {
+      "file": "3.Competences/COMP_PersonalOS/5.Resources/Widgets/Buff widgets.md",
+      "height": 90,
+      "id": "a8358b28ab9fee92",
+      "styleAttributes": {
+      },
+      "subpath": "#^fcc2ed",
+      "type": "file",
+      "width": 600,
+      "x": -1520,
+      "y": -840
+    },
+    {
+      "file": "3.Competences/COMP_PersonalOS/5.Resources/Widgets/Debuff widgets.md",
+      "height": 88,
+      "id": "2e497b4cfe676607",
+      "styleAttributes": {
+      },
+      "subpath": "#^aea62d",
+      "type": "file",
+      "width": 600,
+      "x": -1520,
+      "y": -750
+    },
+    {
+      "color": "1",
+      "height": 180,
+      "id": "e501d78127238644",
+      "styleAttributes": {
+      },
+      "text": "## Handled widget : \nGives you a clickable link to the Handled widget where you can find a list of every files in witch you completed an action today. \nAlso gives you the number of files handled for the day. ",
+      "type": "text",
+      "width": 260,
+      "x": -760,
+      "y": -1540
+    },
+    {
+      "color": "1",
+      "height": 100,
+      "id": "6bb5e41aec319e95",
+      "styleAttributes": {
+      },
+      "text": "## Progress bar\nProgress bar widget based on your work load for the day. ",
+      "type": "text",
+      "width": 280,
+      "x": -1890,
+      "y": -1230
+    },
+    {
+      "color": "1",
+      "height": 140,
+      "id": "d2f84b323bbc1a9f",
+      "styleAttributes": {
+      },
+      "text": "## Status bar\nStatus bars show you Icons in relation to your system health. For example a ⏰ icon is showed when some actions are late. ",
+      "type": "text",
+      "width": 280,
+      "x": -1890,
+      "y": -776
+    },
+    {
+      "color": "1",
+      "height": 227,
+      "id": "6c175f54f97f8e74",
+      "styleAttributes": {
+      },
+      "text": "## User status\n\nUser status presents your global level and experience in using Personal OS in obsidian. The more actions you perform in the system, the more experience you gather. \nThe Mastery score is the sum of all your competences and skills levels. ",
+      "type": "text",
+      "width": 280,
+      "x": -1890,
+      "y": -1047
+    },
+    {
+      "color": "1",
+      "height": 160,
+      "id": "3ffcc95caf830a0c",
+      "styleAttributes": {
+      },
+      "text": "## Due widget \nGives you a clickable link to the due widget where you can find a list of every due file. \nAlso gives you the number of files due for the day. ",
+      "type": "text",
+      "width": 260,
+      "x": -1890,
+      "y": -1620
+    },
+    {
+      "color": "1",
+      "height": 120,
+      "id": "322290054b26223a",
+      "styleAttributes": {
+      },
+      "text": "## Current focus\nCurrent file identified by the \"Engage\" feature, that you should focus on. ",
+      "type": "text",
+      "width": 260,
+      "x": -760,
+      "y": -1170
+    },
+    {
+      "color": "1",
+      "height": 884,
+      "id": "80b8084dc077d234",
+      "styleAttributes": {
+      },
+      "text": "# Right Side panel\n## The right side panel usually contains helpfull files and informations, Open it to see a recap of the important shortcuts for example ! ",
+      "type": "text",
+      "width": 300,
+      "x": -440,
+      "y": -1520
+    },
+    {
+      "color": "1",
+      "height": 102,
+      "id": "df2127234a8bfddf",
+      "styleAttributes": {
+      },
+      "text": "## Remove helper cards once your understand them to clean-up your dashboard",
+      "type": "text",
+      "width": 600,
+      "x": -1520,
+      "y": -662
+    },
+    {
+      "color": "1",
+      "height": 180,
+      "id": "bad889d983231899",
+      "styleAttributes": {
+      },
+      "text": "## Next widget \nGives you a clickable link to the Next widget where you can find a list of every Next files (files with a start date in the past)\nAlso gives you the number of next files available. ",
+      "type": "text",
+      "width": 260,
+      "x": -1350,
+      "y": -1680
+    }
+  ]
+}

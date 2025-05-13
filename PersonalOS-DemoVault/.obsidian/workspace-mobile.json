@@ -1,0 +1,259 @@
+{
+  "main": {
+    "id": "b13e6a947bac5b71",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f94dfdd05057fe7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b9cf15bbe56b5d8",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "9.Config/Dashboards/Cockpit.canvas",
+                "viewState": {
+                  "x": -1201.7497443506868,
+                  "y": -1319.4409538599061,
+                  "zoom": -0.17509309856000785
+                }
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "9bb21170e68344b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.Office/@P_HeroWorkout 09 2023/P_HeroWorkout 2023-09.md",
+                "mode": "preview",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b673df088bd4525",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.Office/@P_HeroWorkout 09 2023/Stretching Workout 2023-12-21.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f345d00e3a761b03",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "824e350fe3ee15c6",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f9f071f640749131",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "f9d6a8c4ff51eb6e",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "b1e2c56adab77ee0",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency"
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "7b11f2480f117be9",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "e86dd7cb7bb0770f",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "1.Office/@P_HeroWorkout 09 2023/Stretching Workout 2023-12-21.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "5b3f9218efd19bc6",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "1.Office/@P_HeroWorkout 09 2023/Stretching Workout 2023-12-21.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "331be4438e68f3c3",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "1.Office/@P_HeroWorkout 09 2023/Stretching Workout 2023-12-21.md"
+          }
+        }
+      },
+      {
+        "id": "69730f494d6c1bbc",
+        "type": "leaf",
+        "state": {
+          "type": "BC-matrix",
+          "state": {}
+        }
+      },
+      {
+        "id": "c684bda56da0aefb",
+        "type": "leaf",
+        "state": {
+          "type": "Processing Helper View",
+          "state": {}
+        }
+      },
+      {
+        "id": "5950e00f5148e54e",
+        "type": "leaf",
+        "state": {
+          "type": "reminder-list",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 4
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templates:Insert template": false,
+      "obsidian-plugin-update-tracker:Plugin Update Tracker": true,
+      "cmdr:Personal OS: Start Work": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "cmdr:Next Due": true,
+      "cmdr:Next Next": true,
+      "cmdr:Next To Process": false,
+      "cmdr:Create new note": false,
+      "completed-task-display:Task Hider": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-excalidraw-plugin:Create new drawing": true,
+      "switcher:Open quick switcher": true,
+      "graph:Open graph view": true,
+      "canvas:Create new canvas": true,
+      "daily-notes:Open today's daily note": true,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
+    }
+  },
+  "active": "7b673df088bd4525",
+  "lastOpenFiles": [
+    "1.Office/@R_ANAH/Challenge Dom.md",
+    "1.Office/@R_ANAH/Refacto rapport.md",
+    "1.Office/@P_PersonalOS/RAD system.md",
+    "1.Office/@P_PersonalOS/Obsidian Sync.md",
+    "1.Office/@P_PersonalOS/Indicator first.md",
+    "2.Calendar/Weekly logs/Week journal 2023-12-22.md",
+    "2.Calendar/Weekly logs/Week journal 2023-12-08.md",
+    "2.Calendar/Weekly logs/Week journal 2023-12-15.md",
+    "2.Calendar/Daily logs/2023-12-20.md",
+    "2.Calendar/Daily logs/2023-12-19.md",
+    "2.Calendar/Daily logs/2023-12-15.md",
+    "2.Calendar/Daily logs/2023-12-13.md",
+    "2.Calendar/Daily logs/2023-12-12.md",
+    "2.Calendar/Daily logs/2023-12-10.md",
+    "2.Calendar/Daily logs/2023-12-08.md",
+    "2.Calendar/Daily logs/2023-12-07.md",
+    "2.Calendar/Daily logs/2023-12-06.md",
+    "2.Calendar/Daily logs/2023-12-05.md",
+    "2.Calendar/Daily logs/2023-12-02.md",
+    "2.Calendar/Daily logs/2023-12-01.md",
+    "2.Calendar/Daily logs/2023-11-30.md",
+    "2.Calendar/Daily logs/2023-11-29.md",
+    "2.Calendar/Daily logs/2023-11-28.md",
+    "2.Calendar/Daily logs/2023-11-27.md",
+    "2.Calendar/Daily logs/2023-11-25.md",
+    "2.Calendar/Daily logs/2023-11-26.md",
+    "9.Config/Dashboards/Cockpit.canvas",
+    "9.Config/Dashboards/Processing.canvas",
+    "8.Archives/Attachment/Pasted image 20231114160028.png",
+    "8.Archives/Attachment/Pasted Image 20231113222454_041.png",
+    "8.Archives/Attachment/Pasted image 20231113221959.png",
+    "8.Archives/Attachment/Pasted image 20231113185841.png",
+    "8.Archives/Attachment/Pasted image 20231105121618.png",
+    "8.Archives/Attachment/Pasted image 20231030192333.png",
+    "8.Archives/pdf/information-09-00057.pdf",
+    "8.Archives/pdf",
+    "8.Archives/Attachment/Pasted image 20231030131801.png",
+    "8.Archives/Attachment/Pasted image 20231028180125.png",
+    "8.Archives/Attachment/Pasted image 20231028180105.png",
+    "8.Archives/Attachment/Pasted image 20231028111639.png",
+    "Test.js",
+    "5.Board room/GetNextText",
+    "9.Config/Dashboards/System Health.canvas",
+    "Ping pong logger.canvas",
+    "9.Config/GlobalVariables",
+    "1.Office/@P_HeroWorkout 09 2023",
+    "System Health.canvas",
+    "9.Config/TimelineView/view.js",
+    "9.Config/TimelineView/view.css",
+    "9.Config/TimelineView",
+    "Calendar.canvas",
+    "9.Config/CalendarView/view.js"
+  ]
+}

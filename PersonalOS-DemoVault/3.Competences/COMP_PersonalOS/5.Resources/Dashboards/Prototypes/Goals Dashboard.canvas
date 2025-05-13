@@ -1,0 +1,49 @@
+{
+	"nodes":[
+		{
+			"id":"4362980c90a173e0",
+			"type":"group",
+			"styleAttributes":{},
+			"x":-840,
+			"y":-1640,
+			"width":500,
+			"height":540,
+			"label":"Goals"
+		},
+		{
+			"id":"6111bd061fd74f4a",
+			"type":"file",
+			"file":"3.Competences/COMP_PersonalOS/5.Resources/Widgets/Goals widgets.md",
+			"subpath":"#No Zero Goals",
+			"styleAttributes":{},
+			"x":-820,
+			"y":-1620,
+			"width":460,
+			"height":160
+		},
+		{
+			"id":"f1dbb6158bd9e9b1",
+			"type":"file",
+			"file":"3.Competences/COMP_Obsidian/Daily Goals.md",
+			"subpath":"#Aligned Daily Goals",
+			"styleAttributes":{},
+			"x":-820,
+			"y":-1460,
+			"width":460,
+			"height":180
+		},
+		{
+			"id":"80c550668cc48549",
+			"type":"file",
+			"file":"3.Competences/COMP_Obsidian/Daily Goals.md",
+			"subpath":"#Free Daily Goals",
+			"styleAttributes":{},
+			"x":-820,
+			"y":-1280,
+			"width":460,
+			"height":160
+		}
+	],
+	"edges":[],
+	"metadata":{}
+}

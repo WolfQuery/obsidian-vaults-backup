@@ -1,0 +1,14 @@
+{
+  "accentColor": "#0d840b",
+  "baseFontSize": 14,
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "supercharged-links-gen",
+    "DataviewLineFocus",
+    "TagColor",
+    "WidePage"
+  ],
+  "cssTheme": "",
+  "nativeMenus": false,
+  "translucency": false
+}

@@ -1,0 +1,139 @@
+{
+  "main": {
+    "id": "ff23f9f9529ce3b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a80f970a7e75a13",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "793ef7c401e7815d",
+    "type": "split",
+    "children": [
+      {
+        "id": "5efd2be75f851324",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "faa0d6a563d99382",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f114742ec48ba54e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Goal",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "07b9855401feaf3a",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "e2c5e0978e165970",
+            "type": "leaf",
+            "state": {
+              "type": "stats-tracker",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7516f2a6421313de",
+    "type": "split",
+    "children": [
+      {
+        "id": "a9c593b5b82f4108",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9faf48f138d8c5da",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "31ed0fb67abc2340",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "221a65736357336d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36542c420ade1bcd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "2a80f970a7e75a13",
+  "lastOpenFiles": [
+    "Dimensions of meaning.md",
+    "Threefold model for evaluating Daily Work.md",
+    "Six-Level model for reviewing your life.md",
+    "Personal workflow Key result areas.md",
+    "Natural project Planning.md",
+    "Achieving Key result areas.md",
+    "Laser Focus a task to death.md",
+    "Communication Detox.md",
+    "Creating large chunks of time for deep work.md",
+    "Beat the clock.md"
+  ]
+}

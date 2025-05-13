@@ -1,0 +1,219 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-note
+tags:
+- ttrpg-cli/spell/list/subclass/arcane-trickster
+aliases: ["Spells for Arcane Trickster"]
+---
+# Spells for Arcane Trickster
+
+## Cantrip
+
+- [Acid Splash](acid-splash "PHB") at class level 3
+- [Blade Ward](blade-ward "PHB") at class level 3
+- [Booming Blade](booming-blade-tce "TCE") at class level 3
+- [Chill Touch](chill-touch "PHB") at class level 3
+- [Control Flames](control-flames-xge "XGE") at class level 3
+- [Create Bonfire](create-bonfire-xge "XGE") at class level 3
+- [Dancing Lights](dancing-lights "PHB") at class level 3
+- [Fire Bolt](fire-bolt "PHB") at class level 3
+- [Friends](friends "PHB") at class level 3
+- [Frostbite](frostbite-xge "XGE") at class level 3
+- [Green-Flame Blade](green-flame-blade-tce "TCE") at class level 3
+- [Gust](gust-xge "XGE") at class level 3
+- [Infestation](infestation-xge "XGE") at class level 3
+- [Light](light "PHB") at class level 3
+- [Lightning Lure](lightning-lure-tce "TCE") at class level 3
+- [Mage Hand](mage-hand "PHB") at class level 3
+- [Mending](mending "PHB") at class level 3
+- [Message](message "PHB") at class level 3
+- [Mind Sliver](mind-sliver-tce "TCE") at class level 3
+- [Minor Illusion](minor-illusion "PHB") at class level 3
+- [Mold Earth](mold-earth-xge "XGE") at class level 3
+- [Poison Spray](poison-spray "PHB") at class level 3
+- [Prestidigitation](prestidigitation "PHB") at class level 3
+- [Ray of Frost](ray-of-frost "PHB") at class level 3
+- [Shape Water](shape-water-xge "XGE") at class level 3
+- [Shocking Grasp](shocking-grasp "PHB") at class level 3
+- [Sword Burst](sword-burst-tce "TCE") at class level 3
+- [Thunderclap](thunderclap-xge "XGE") at class level 3
+- [Toll the Dead](toll-the-dead-xge "XGE") at class level 3
+- [True Strike](true-strike "PHB") at class level 3
+
+## 1st Level
+
+- [Absorb Elements](absorb-elements-xge "XGE") at class level 3
+- [Alarm](alarm "PHB") at class level 3
+- [Burning Hands](burning-hands "PHB") at class level 3
+- [Catapult](catapult-xge "XGE") at class level 3
+- [Cause Fear](cause-fear-xge "XGE") at class level 3
+- [Charm Person](charm-person "PHB") at class level 3
+- [Chromatic Orb](chromatic-orb "PHB") at class level 3
+- [Color Spray](color-spray "PHB") at class level 3
+- [Comprehend Languages](comprehend-languages "PHB") at class level 3
+- [Detect Magic](detect-magic "PHB") at class level 3
+- [Disguise Self](disguise-self "PHB") at class level 3
+- [Earth Tremor](earth-tremor-xge "XGE") at class level 3
+- [Expeditious Retreat](expeditious-retreat "PHB") at class level 3
+- [False Life](false-life "PHB") at class level 3
+- [Feather Fall](feather-fall "PHB") at class level 3
+- [Find Familiar](find-familiar "PHB") at class level 3
+- [Fog Cloud](fog-cloud "PHB") at class level 3
+- [Grease](grease "PHB") at class level 3
+- [Ice Knife](ice-knife-xge "XGE") at class level 3
+- [Identify](identify "PHB") at class level 3
+- [Illusory Script](illusory-script "PHB") at class level 3
+- [Jump](jump "PHB") at class level 3
+- [Longstrider](longstrider "PHB") at class level 3
+- [Mage Armor](mage-armor "PHB") at class level 3
+- [Magic Missile](magic-missile "PHB") at class level 3
+- [Protection from Evil and Good](protection-from-evil-and-good "PHB") at class level 3
+- [Ray of Sickness](ray-of-sickness "PHB") at class level 3
+- [Shield](shield "PHB") at class level 3
+- [Silent Image](silent-image "PHB") at class level 3
+- [Sleep](sleep "PHB") at class level 3
+- [Snare](snare-xge "XGE") at class level 3
+- [Tasha's Caustic Brew](tashas-caustic-brew-tce "TCE") at class level 3
+- [Tasha's Hideous Laughter](tashas-hideous-laughter "PHB") at class level 3
+- [Tenser's Floating Disk](tensers-floating-disk "PHB") at class level 3
+- [Thunderwave](thunderwave "PHB") at class level 3
+- [Unseen Servant](unseen-servant "PHB") at class level 3
+- [Witch Bolt](witch-bolt "PHB") at class level 3
+
+## 2nd Level
+
+- [Aganazzar's Scorcher](aganazzars-scorcher-xge "XGE") at class level 3
+- [Alter Self](alter-self "PHB") at class level 3
+- [Arcane Lock](arcane-lock "PHB") at class level 3
+- [Augury](augury "PHB") at class level 3
+- [Blindness/Deafness](blindness-deafness "PHB") at class level 3
+- [Blur](blur "PHB") at class level 3
+- [Cloud of Daggers](cloud-of-daggers "PHB") at class level 3
+- [Continual Flame](continual-flame "PHB") at class level 3
+- [Crown of Madness](crown-of-madness "PHB") at class level 3
+- [Darkness](darkness "PHB") at class level 3
+- [Darkvision](darkvision "PHB") at class level 3
+- [Detect Thoughts](detect-thoughts "PHB") at class level 3
+- [Dragon's Breath](dragons-breath-xge "XGE") at class level 3
+- [Dust Devil](dust-devil-xge "XGE") at class level 3
+- [Earthbind](earthbind-xge "XGE") at class level 3
+- [Enhance Ability](enhance-ability "PHB") at class level 3
+- [Enlarge/Reduce](enlarge-reduce "PHB") at class level 3
+- [Flaming Sphere](flaming-sphere "PHB") at class level 3
+- [Gentle Repose](gentle-repose "PHB") at class level 3
+- [Gust of Wind](gust-of-wind "PHB") at class level 3
+- [Hold Person](hold-person "PHB") at class level 3
+- [Invisibility](invisibility "PHB") at class level 3
+- [Knock](knock "PHB") at class level 3
+- [Levitate](levitate "PHB") at class level 3
+- [Locate Object](locate-object "PHB") at class level 3
+- [Magic Mouth](magic-mouth "PHB") at class level 3
+- [Magic Weapon](magic-weapon "PHB") at class level 3
+- [Maximilian's Earthen Grasp](maximilians-earthen-grasp-xge "XGE") at class level 3
+- [Melf's Acid Arrow](melfs-acid-arrow "PHB") at class level 3
+- [Mind Spike](mind-spike-xge "XGE") at class level 3
+- [Mirror Image](mirror-image "PHB") at class level 3
+- [Misty Step](misty-step "PHB") at class level 3
+- [Nystul's Magic Aura](nystuls-magic-aura "PHB") at class level 3
+- [Phantasmal Force](phantasmal-force "PHB") at class level 3
+- [Pyrotechnics](pyrotechnics-xge "XGE") at class level 3
+- [Ray of Enfeeblement](ray-of-enfeeblement "PHB") at class level 3
+- [Rope Trick](rope-trick "PHB") at class level 3
+- [Scorching Ray](scorching-ray "PHB") at class level 3
+- [See Invisibility](see-invisibility "PHB") at class level 3
+- [Shadow Blade](shadow-blade-xge "XGE") at class level 3
+- [Shatter](shatter "PHB") at class level 3
+- [Skywrite](skywrite-xge "XGE") at class level 3
+- [Snilloc's Snowball Swarm](snillocs-snowball-swarm-xge "XGE") at class level 3
+- [Spider Climb](spider-climb "PHB") at class level 3
+- [Suggestion](suggestion "PHB") at class level 3
+- [Tasha's Mind Whip](tashas-mind-whip-tce "TCE") at class level 3
+- [Warding Wind](warding-wind-xge "XGE") at class level 3
+- [Web](web "PHB") at class level 3
+
+## 3rd Level
+
+- [Animate Dead](animate-dead "PHB") at class level 3
+- [Bestow Curse](bestow-curse "PHB") at class level 3
+- [Blink](blink "PHB") at class level 3
+- [Catnap](catnap-xge "XGE") at class level 3
+- [Clairvoyance](clairvoyance "PHB") at class level 3
+- [Counterspell](counterspell "PHB") at class level 3
+- [Dispel Magic](dispel-magic "PHB") at class level 3
+- [Enemies Abound](enemies-abound-xge "XGE") at class level 3
+- [Erupting Earth](erupting-earth-xge "XGE") at class level 3
+- [Fear](fear "PHB") at class level 3
+- [Feign Death](feign-death "PHB") at class level 3
+- [Fireball](fireball "PHB") at class level 3
+- [Flame Arrows](flame-arrows-xge "XGE") at class level 3
+- [Fly](fly "PHB") at class level 3
+- [Gaseous Form](gaseous-form "PHB") at class level 3
+- [Glyph of Warding](glyph-of-warding "PHB") at class level 3
+- [Haste](haste "PHB") at class level 3
+- [Hypnotic Pattern](hypnotic-pattern "PHB") at class level 3
+- [Intellect Fortress](intellect-fortress-tce "TCE") at class level 3
+- [Leomund's Tiny Hut](leomunds-tiny-hut "PHB") at class level 3
+- [Life Transference](life-transference-xge "XGE") at class level 3
+- [Lightning Bolt](lightning-bolt "PHB") at class level 3
+- [Magic Circle](magic-circle "PHB") at class level 3
+- [Major Image](major-image "PHB") at class level 3
+- [Melf's Minute Meteors](melfs-minute-meteors-xge "XGE") at class level 3
+- [Nondetection](nondetection "PHB") at class level 3
+- [Phantom Steed](phantom-steed "PHB") at class level 3
+- [Protection from Energy](protection-from-energy "PHB") at class level 3
+- [Remove Curse](remove-curse "PHB") at class level 3
+- [Sending](sending "PHB") at class level 3
+- [Sleet Storm](sleet-storm "PHB") at class level 3
+- [Slow](slow "PHB") at class level 3
+- [Speak with Dead](speak-with-dead "PHB") at class level 3
+- [Spirit Shroud](spirit-shroud-tce "TCE") at class level 3
+- [Stinking Cloud](stinking-cloud "PHB") at class level 3
+- [Summon Fey](summon-fey-tce "TCE") at class level 3
+- [Summon Lesser Demons](summon-lesser-demons-xge "XGE") at class level 3
+- [Summon Shadowspawn](summon-shadowspawn-tce "TCE") at class level 3
+- [Summon Undead](summon-undead-tce "TCE") at class level 3
+- [Thunder Step](thunder-step-xge "XGE") at class level 3
+- [Tidal Wave](tidal-wave-xge "XGE") at class level 3
+- [Tiny Servant](tiny-servant-xge "XGE") at class level 3
+- [Tongues](tongues "PHB") at class level 3
+- [Vampiric Touch](vampiric-touch "PHB") at class level 3
+- [Wall of Sand](wall-of-sand-xge "XGE") at class level 3
+- [Wall of Water](wall-of-water-xge "XGE") at class level 3
+- [Water Breathing](water-breathing "PHB") at class level 3
+
+## 4th Level
+
+- [Arcane Eye](arcane-eye "PHB") at class level 3
+- [Banishment](banishment "PHB") at class level 3
+- [Blight](blight "PHB") at class level 3
+- [Charm Monster](charm-monster-xge "XGE") at class level 3
+- [Confusion](confusion "PHB") at class level 3
+- [Conjure Minor Elementals](conjure-minor-elementals "PHB") at class level 3
+- [Control Water](control-water "PHB") at class level 3
+- [Dimension Door](dimension-door "PHB") at class level 3
+- [Divination](divination "PHB") at class level 3
+- [Elemental Bane](elemental-bane-xge "XGE") at class level 3
+- [Evard's Black Tentacles](evards-black-tentacles "PHB") at class level 3
+- [Fabricate](fabricate "PHB") at class level 3
+- [Fire Shield](fire-shield "PHB") at class level 3
+- [Greater Invisibility](greater-invisibility "PHB") at class level 3
+- [Hallucinatory Terrain](hallucinatory-terrain "PHB") at class level 3
+- [Ice Storm](ice-storm "PHB") at class level 3
+- [Leomund's Secret Chest](leomunds-secret-chest "PHB") at class level 3
+- [Locate Creature](locate-creature "PHB") at class level 3
+- [Mordenkainen's Faithful Hound](mordenkainens-faithful-hound "PHB") at class level 3
+- [Mordenkainen's Private Sanctum](mordenkainens-private-sanctum "PHB") at class level 3
+- [Otiluke's Resilient Sphere](otilukes-resilient-sphere "PHB") at class level 3
+- [Phantasmal Killer](phantasmal-killer "PHB") at class level 3
+- [Polymorph](polymorph "PHB") at class level 3
+- [Sickening Radiance](sickening-radiance-xge "XGE") at class level 3
+- [Stone Shape](stone-shape "PHB") at class level 3
+- [Stoneskin](stoneskin "PHB") at class level 3
+- [Storm Sphere](storm-sphere-xge "XGE") at class level 3
+- [Summon Aberration](summon-aberration-tce "TCE") at class level 3
+- [Summon Construct](summon-construct-tce "TCE") at class level 3
+- [Summon Elemental](summon-elemental-tce "TCE") at class level 3
+- [Summon Greater Demon](summon-greater-demon-xge "XGE") at class level 3
+- [Vitriolic Sphere](vitriolic-sphere-xge "XGE") at class level 3
+- [Wall of Fire](wall-of-fire "PHB") at class level 3
+- [Watery Sphere](watery-sphere-xge "XGE") at class level 3

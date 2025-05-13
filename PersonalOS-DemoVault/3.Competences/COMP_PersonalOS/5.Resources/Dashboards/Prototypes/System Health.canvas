@@ -1,0 +1,240 @@
+{
+	"nodes":[
+		{
+			"type":"file",
+			"file":"3.Activities/Checklists/Next actions Dashboard.md",
+			"subpath":"#Next actions",
+			"id":"0113211df3662e63",
+			"styleAttributes":{},
+			"x":-640,
+			"y":-880,
+			"width":420,
+			"height":540
+		},
+		{
+			"type":"file",
+			"file":"3.Competences/COMP_PersonalOS/5.Resources/Widgets/Action statistics widgets.md",
+			"subpath":"#^ea5222",
+			"id":"529f3225164cc071",
+			"styleAttributes":{},
+			"x":-1440,
+			"y":-1000,
+			"width":140,
+			"height":80
+		},
+		{
+			"type":"file",
+			"file":"3.Competences/COMP_PersonalOS/5.Resources/Widgets/Action statistics widgets.md",
+			"subpath":"#^a3afe4",
+			"id":"43326a437e9f5da7",
+			"styleAttributes":{},
+			"x":-1280,
+			"y":-1000,
+			"width":140,
+			"height":80
+		},
+		{
+			"type":"text",
+			"text":"All Time",
+			"id":"185062eef65aab8d",
+			"styleAttributes":{},
+			"x":-1440,
+			"y":-1060,
+			"width":140,
+			"height":25
+		},
+		{
+			"type":"text",
+			"text":"Last 7 days",
+			"id":"2acddc31f92e55e3",
+			"styleAttributes":{},
+			"x":-1280,
+			"y":-1060,
+			"width":140,
+			"height":25
+		},
+		{
+			"type":"text",
+			"text":"### Focus of the week \n[[Vault presentation on 2023-10-21]]",
+			"id":"58463d523cc1bb07",
+			"styleAttributes":{},
+			"x":-1440,
+			"y":-880,
+			"width":780,
+			"height":120
+		},
+		{
+			"id":"6ffc9a8c72318b8e",
+			"type":"file",
+			"file":"2.Activities/PROJ_PersonalOS/Failed tasks Dashboard.md",
+			"subpath":"#^36d739",
+			"styleAttributes":{},
+			"x":-520,
+			"y":-1000,
+			"width":300,
+			"height":80
+		},
+		{
+			"type":"file",
+			"file":"3.Competences/COMP_Obsidian/Daily Goals.md",
+			"subpath":"#Daily Goals",
+			"id":"20b96422c6a57e1b",
+			"styleAttributes":{},
+			"x":-1440,
+			"y":-720,
+			"width":780,
+			"height":220
+		},
+		{
+			"type":"file",
+			"file":"3.Competences/COMP_PersonalOS/5.Resources/Widgets/To Process widgets.md",
+			"subpath":"#^c1cba6",
+			"id":"3762f78c81ef2643",
+			"styleAttributes":{},
+			"x":-960,
+			"y":-420,
+			"width":140,
+			"height":80,
+			"color":"3"
+		},
+		{
+			"type":"text",
+			"text":"[[Next widgets|Next]]ompetences/COMP_PersonalOS/Dashboards/Next Dashboard|Next]]",
+			"id":"6a151573de02eddf",
+			"styleAttributes":{},
+			"x":-1120,
+			"y":-480,
+			"width":140,
+			"height":50,
+			"color":"6"
+		},
+		{
+			"id":"a3bd278837bfd767",
+			"type":"file",
+			"file":"3.Competences/COMP_PersonalOS/5.Resources/Widgets/Next widgets.md",
+			"subpath":"#^3122e0",
+			"styleAttributes":{},
+			"x":-1120,
+			"y":-420,
+			"width":140,
+			"height":80,
+			"color":"6"
+		},
+		{
+			"type":"text",
+			"text":"[[Due widgets|Due]].Competences/COMP_PersonalOS/Dashboards/Due Dashboard|Due]]",
+			"id":"81fd4548091b6414",
+			"styleAttributes":{},
+			"x":-1280,
+			"y":-480,
+			"width":140,
+			"height":50,
+			"color":"5"
+		},
+		{
+			"type":"file",
+			"file":"3.Competences/COMP_PersonalOS/5.Resources/Widgets/Due widgets.md",
+			"subpath":"#^79d4d8",
+			"id":"bfbcab78d80187b0",
+			"styleAttributes":{},
+			"x":-1280,
+			"y":-420,
+			"width":140,
+			"height":80,
+			"color":"5"
+		},
+		{
+			"type":"text",
+			"text":"Someday",
+			"id":"bfc62a2ccc489708",
+			"styleAttributes":{},
+			"x":-820,
+			"y":-1060,
+			"width":140,
+			"height":25,
+			"color":"5"
+		},
+		{
+			"type":"file",
+			"file":"3.Competences/COMP_PersonalOS/5.Resources/Widgets/Prototypes/Somedays widgets.md",
+			"subpath":"#^1defa3",
+			"id":"3401841872bffe4c",
+			"styleAttributes":{},
+			"x":-820,
+			"y":-1000,
+			"width":140,
+			"height":80,
+			"color":"5"
+		},
+		{
+			"id":"7255e73884aa45ef",
+			"type":"text",
+			"text":"[[Late widgets|Late]]ompetences/COMP_PersonalOS/Dashboards/Late Dashboard|Late]]",
+			"styleAttributes":{},
+			"x":-800,
+			"y":-480,
+			"width":140,
+			"height":50,
+			"color":"1"
+		},
+		{
+			"id":"fd3739e994499fea",
+			"type":"file",
+			"file":"3.Competences/COMP_PersonalOS/5.Resources/Widgets/Late widgets.md",
+			"subpath":"#^2b0360",
+			"styleAttributes":{},
+			"x":-800,
+			"y":-420,
+			"width":140,
+			"height":80,
+			"color":"1"
+		},
+		{
+			"type":"text",
+			"text":"Done Today",
+			"id":"a25b2eb7780564d1",
+			"styleAttributes":{},
+			"x":-1440,
+			"y":-480,
+			"width":140,
+			"height":50,
+			"color":"4"
+		},
+		{
+			"type":"file",
+			"file":"3.Competences/COMP_PersonalOS/5.Resources/Widgets/Action statistics widgets.md",
+			"subpath":"#^5f1ebc",
+			"id":"e4ff6d328957781b",
+			"styleAttributes":{},
+			"x":-1440,
+			"y":-420,
+			"width":140,
+			"height":80,
+			"color":"4"
+		},
+		{
+			"type":"text",
+			"text":"[[To Process widgets|Process]]s/COMP_PersonalOS/Dashboards/To Process Dashboard|Process]]",
+			"id":"1ada9d8d067ba780",
+			"styleAttributes":{},
+			"x":-960,
+			"y":-481,
+			"width":140,
+			"height":50,
+			"color":"3"
+		},
+		{
+			"id":"849aba93ed7e3729",
+			"type":"file",
+			"file":"4.Ressources/Quotes/Quote dashboard.md",
+			"subpath":"#^63ffd3",
+			"styleAttributes":{},
+			"x":-1440,
+			"y":-1220,
+			"width":400,
+			"height":120
+		}
+	],
+	"edges":[],
+	"metadata":{}
+}

@@ -1,0 +1,56 @@
+{
+  "edges": [
+  ],
+  "metadata": {
+  },
+  "nodes": [
+    {
+      "file": "3.Competences/COMP_PersonalOS/5.Resources/Widgets/Focus Tree widgets.md",
+      "height": 100,
+      "id": "d7c3cd1fd075b8dd",
+      "styleAttributes": {
+      },
+      "subpath": "#^f75b84",
+      "type": "file",
+      "width": 480,
+      "x": -1520,
+      "y": -1660
+    },
+    {
+      "file": "3.Competences/COMP_PersonalOS/5.Resources/Widgets/Handled widgets.md",
+      "height": 80,
+      "id": "5360e89c4d04735a",
+      "styleAttributes": {
+      },
+      "subpath": "#^cf21a0",
+      "type": "file",
+      "width": 480,
+      "x": -1520,
+      "y": -1560
+    },
+    {
+      "file": "3.Competences/COMP_PersonalOS/5.Resources/Widgets/Buff widgets.md",
+      "height": 90,
+      "id": "9aa0e70ee80eb9d6",
+      "styleAttributes": {
+      },
+      "subpath": "#^fcc2ed",
+      "type": "file",
+      "width": 480,
+      "x": -1520,
+      "y": -1480
+    },
+    {
+      "file": "3.Competences/COMP_PersonalOS/5.Resources/Widgets/Debuff widgets.md",
+      "height": 88,
+      "id": "a4c1cf64f7f45e26",
+      "styleAttributes": {
+      },
+      "subpath": "#^aea62d",
+      "type": "file",
+      "width": 480,
+      "x": -1520,
+      "y": -1390
+    }
+  ]
+}

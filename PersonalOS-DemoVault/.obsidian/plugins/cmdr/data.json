@@ -1,0 +1,103 @@
+{
+  "confirmDeletion": false,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [
+    {
+      "id": "metadata-menu:insert__Subject__Context",
+      "icon": "list-plus",
+      "name": "Insert Context field",
+      "mode": "any"
+    },
+    {
+      "id": "metadata-menu:insert_field_at_cursor",
+      "icon": "list-plus",
+      "name": "Choose a field to insert",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-task-marker:task-marker-cancel",
+      "icon": "tm-cancel-task",
+      "name": "Task Marker: Cancel task",
+      "mode": "any"
+    }
+  ],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "file-explorer:new-file",
+      "icon": "lucide-file-plus",
+      "name": "Create new note",
+      "mode": "any"
+    },
+    {
+      "id": "personal-os:start-work",
+      "icon": "target",
+      "name": "Engage",
+      "mode": "any"
+    },
+    {
+      "id": "personal-os:start-process",
+      "icon": "axe",
+      "name": "Process",
+      "mode": "any"
+    },
+    {
+      "id": "personal-os:snooze-tasks",
+      "icon": "moon",
+      "name": "Snooze tasks",
+      "mode": "any"
+    },
+    {
+      "id": "personal-os:toggle-task-hider",
+      "icon": "list-checks",
+      "name": "Toggle action hider",
+      "mode": "any"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": [
+      "Open quick switcher",
+      "Open in Bookmarks Mode",
+      "Open in Workspaces Mode",
+      "Open Related Items for the active editor",
+      "Open in Editor Mode",
+      "Open in Commands Mode",
+      "Plugin Update Tracker",
+      "Templater",
+      "Manage workspace layouts",
+      "Open random note",
+      "Open command palette",
+      "Open today's daily note",
+      "Create new canvas",
+      "Open graph view",
+      "Open Symbols for the active editor",
+      "Open in Headings Mode",
+      "Vantage - Advanced search builder",
+      "File Tree Alternative Plugin",
+      "Create new drawing",
+      "Breadcrumbs Visualisation",
+      "Advanced Tables Toolbar",
+      "Open Google Keep",
+      "BRAT"
+    ]
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 2,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}
