@@ -1,0 +1,222 @@
+{
+  "main": {
+    "id": "7a7088c1a2d60174",
+    "type": "split",
+    "children": [
+      {
+        "id": "09ddfbe244222af5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "934430b3a9974896",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Shard-CLI/Shard-CLI.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Shard-CLI"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a404e951cf5fcee0",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4ad709ea7ccdb9e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f38f543eb704a640",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "71f987d192806fc0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "043f1810d6bf5deb",
+    "type": "split",
+    "children": [
+      {
+        "id": "f1b4667d40cc6971",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5211f46079ce32b0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Home.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Home"
+            }
+          },
+          {
+            "id": "105a31fc73697025",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Home.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Home"
+            }
+          },
+          {
+            "id": "1e13e905bb634d95",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Home.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Home"
+            }
+          },
+          {
+            "id": "66bc54c5e83b340e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "e8e4ab2596961a02",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "dbb5577765875792",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "digitalgarden:Digital Garden Publication Center": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "934430b3a9974896",
+  "lastOpenFiles": [
+    "Projects/Shard-CLI/LICENSE.md",
+    "Projects/Shard-CLI/Shard-CLI.md",
+    "z_Templates/TEMPLATE - Projects.md",
+    "Home.md",
+    "z_Assets/Icons/banner2 - Copy.png",
+    "Projects/Shard-CLI",
+    "Galleries/Art Gallery.md",
+    "z_Assets/Art/Digital/god is all.png",
+    "z_Assets/Art/Digital/fraud watcher repent.png",
+    "Projects",
+    "Blog Posts/Hello World.md",
+    "z_Templates/TEMPLATE - Blog Posts.md",
+    "Blog Posts/Eroticism of the Machine.md",
+    "Galleries/Picture Gallery.md",
+    "z_Assets/Icons/noun-book.svg",
+    "z_Assets/Icons/noun-engineering-book-1185746.svg",
+    "z_Assets/Pictures/Lumix DMC-LX15 - front.jpg",
+    "z_Assets/Art/Digital/nightshade-result.txt",
+    "z_Assets/Art/Digital/god is all-nightshade-intensity-DEFAULT-V1.png",
+    "z_Templates",
+    "Blog Posts",
+    "Galleries",
+    "z_Assets/Art/Digital/fraud watcher repent-nightshade-intensity-DEFAULT-V1.png",
+    "z_Assets/Pictures/Lumix DMC-LX15 - front.avif",
+    "z_Assets/Art/Digital",
+    "z_Assets/Art/New folder",
+    "z_Assets/Art",
+    "z_Assets/New folder",
+    "z_Assets/Pictures/Nikon D40-front.jpeg",
+    "Untitled.md",
+    "tumblr.com/munurufu.md",
+    "().md"
+  ]
+}
