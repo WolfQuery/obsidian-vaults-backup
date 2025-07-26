@@ -8,17 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "934430b3a9974896",
+            "id": "f22906da0180a3c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Shard-CLI/Shard-CLI.md",
+                "file": "Projects/Learning Rust/Notes/1. Fundamentals/Fundamentals - Match.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shard-CLI"
+              "title": "Fundamentals - Match"
+            }
+          },
+          {
+            "id": "d5fe8a6ad8ff265b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Home.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Home"
+            }
+          },
+          {
+            "id": "20729bfa2c2deb68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Learning Rust/Learning programming in Rust.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Learning programming in Rust"
             }
           }
         ]
@@ -184,39 +212,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "934430b3a9974896",
+  "active": "f22906da0180a3c5",
   "lastOpenFiles": [
-    "Projects/Shard-CLI/LICENSE.md",
-    "Projects/Shard-CLI/Shard-CLI.md",
-    "z_Templates/TEMPLATE - Projects.md",
+    "Projects/Learning Rust/Learning programming in Rust.md",
+    "Projects/Learning Rust/Notes/1. Fundamentals/Fundamentals - Match.md",
+    "Excalidraw/Drawing 2025-07-26 20.12.25.excalidraw.md",
+    "Projects/Learning Rust/Notes/2. Demo/Demo - Control flow with if & else.md",
+    "z_Assets/Pictures/Excalidraw/Pasted image 20250726205623.png",
+    "z_Assets/Pictures/Excalidraw/Pasted image 20250726205616.png",
+    "Excalidraw/Drawing 2025-07-26 20.51.21.excalidraw.md",
     "Home.md",
-    "z_Assets/Icons/banner2 - Copy.png",
-    "Projects/Shard-CLI",
+    "Projects/Learning Rust/Notes/2. Demo/Demo - Basic arithmetic.md",
+    "Projects/Learning Rust/Notes/2. Demo/Demo - Comments.md",
+    "Projects/Learning Rust/Notes/3. Activity/Activity - Functions.md",
+    "Projects/Learning Rust/Notes/3. Activity",
+    "Projects/Learning Rust/Notes/1. Fundamentals/Fundamentals - Repetition using loops.md",
+    "Projects/Learning Rust/Notes/2. Demo",
+    "z_Assets/Pictures/Excalidraw/Pasted image 20250726201731.png",
+    "Pasted image 20250726201443.png",
+    "Projects/Learning Rust/Notes/1. Fundamentals/Fundamentals - Control flow using 'if'.md",
+    "Excalidraw/Drawing 2025-07-26 19.47.47.excalidraw.md",
+    "z_Assets/Pictures/Excalidraw/Pasted image 20250726151756.png",
+    "z_Assets/Pictures/Screenshots/Pasted image 20250726151717.png",
+    "z_Assets/Pictures/Excalidraw",
+    "Excalidraw/Drawing 2025-07-26 19.36.25.excalidraw.md",
+    "z_Assets/Pictures/Excalidraw/Pasted image 20250726195516.png",
+    "z_Assets/Pictures/Excalidraw/Pasted image 20250726195216.png",
+    "z_Assets/Pictures/Excalidraw/Pasted image 20250726194455.png",
+    "z_Assets/Pictures/Excalidraw/Pasted image 20250726193439.png",
+    "Excalidraw/Drawing 2025-07-26 19.29.46.excalidraw.md",
+    "Excalidraw/Drawing 2025-07-26 15.01.37.excalidraw.md",
+    "Projects/Learning Rust/Notes/1. Fundamentals/Fundamentals - println macro.md",
+    "Projects/Learning Rust/Notes/1. Fundamentals/Fundamentals - Variables.md",
+    "Projects/Learning Rust/Notes/1. Fundamentals/Fundamentals - Functions.md",
+    "Projects/Learning Rust/Notes/1. Fundamentals/Fundamentals - Data Types.md",
+    "z_Assets/Pictures/Screenshots",
+    "Excalidraw",
+    "Projects/Learning Rust/Notes/1. Fundamentals",
+    "Projects/Learning Rust/Notes/Introduction",
+    "Projects/Learning Rust/Notes",
+    "Projects/Learning Rust",
+    "Projects/Shard-CLI/Shard-CLI.md",
     "Galleries/Art Gallery.md",
-    "z_Assets/Art/Digital/god is all.png",
-    "z_Assets/Art/Digital/fraud watcher repent.png",
-    "Projects",
+    "Projects/Shard-CLI/LICENSE.md",
+    "z_Templates/TEMPLATE - Projects.md",
+    "Projects/Shard-CLI",
     "Blog Posts/Hello World.md",
     "z_Templates/TEMPLATE - Blog Posts.md",
-    "Blog Posts/Eroticism of the Machine.md",
-    "Galleries/Picture Gallery.md",
-    "z_Assets/Icons/noun-book.svg",
-    "z_Assets/Icons/noun-engineering-book-1185746.svg",
-    "z_Assets/Pictures/Lumix DMC-LX15 - front.jpg",
-    "z_Assets/Art/Digital/nightshade-result.txt",
-    "z_Assets/Art/Digital/god is all-nightshade-intensity-DEFAULT-V1.png",
-    "z_Templates",
-    "Blog Posts",
-    "Galleries",
-    "z_Assets/Art/Digital/fraud watcher repent-nightshade-intensity-DEFAULT-V1.png",
-    "z_Assets/Pictures/Lumix DMC-LX15 - front.avif",
-    "z_Assets/Art/Digital",
-    "z_Assets/Art/New folder",
-    "z_Assets/Art",
-    "z_Assets/New folder",
-    "z_Assets/Pictures/Nikon D40-front.jpeg",
-    "Untitled.md",
-    "tumblr.com/munurufu.md",
-    "().md"
+    "Blog Posts/Eroticism of the Machine.md"
   ]
 }

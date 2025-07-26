@@ -32,6 +32,7 @@ You can see some of the pictures I've taken in the [[Picture Gallery]]
 ---
 ### Cosplay
 I do cosplay!
+*I'll eventually post something here*
 
 ---
 ### Art
@@ -41,23 +42,27 @@ My focus is mostly on [**Surrealism**](https://en.wikipedia.org/wiki/Surrealism)
 You can checkout most of my pieces in the [[Art Gallery|Art Gallery]].
 
 ---
+### Music
+I make music once in a while... Might post some here
+
+---
 ### Blog
 I write some essays and thoughts once in a while, you'll see them here <3
-
 ```dataview
-table without id link(title, file.title) as "Title", date as "Published"
-from "Blog Posts" where "#blog"
-where date and dg-publish = true
+table without id link(file.name, title) as "Title", date as "Published"
+from "Blog Posts"
+where contains(tags, "blog") and date and dg-publish = true
 sort date desc
 limit 5
 ```
+
 > [!example]- All blog posts
-> ```dataview
-table without id link(title, file.title) as "Title", date as "Published"
-from "Blog Posts" where "#blog"
-where date
-sort date desc
-> ```
+>```dataview
+>table without id link(file.name, title) as "Title", date as "Published"
+>from "Blog Posts"
+>where contains(tags, "blog") and date and dg-publish = true
+>sort date desc
+>```
 
 ---
 ## Checkout <3
@@ -66,15 +71,17 @@ While you're reading this I definitely **recommend** also taking a look at my **
 
 ## Where u can find me
 
-| *Platform*    | *Main account*                                                      | *Secondary account*                      |
-| ------------- | ------------------------------------------------------------------- | ---------------------------------------- |
-| **E-mail**    | foxtailoromis@gmail.com                                             | moonythedelusional@gmail.com             |
-| **Github**    | [WolfQuery](https://github.com/WolfQuery)                           | N/A                                      |
-| **Codeberg**  | [WolfQuery](https://codeberg.org/WolfQuery)                         |                                          |
-| **Tumblr**    | [@mun-urufu](https://www.tumblr.com/mun-urufu)                      | [@munurufu](https://tumblr.com/munurufu) |
-| **Discord**   | @moonwolf21                                                         | @oromisfoxtail                           |
-| **Instagram** | [@mybrainisavhs](https://www.instagram.com/mybrainisavhs/)          | N/A                                      |
-| **Reddit**    | [u/TashaTheInkeeper](https://www.reddit.com/user/TashaTheInnkeeper) | N/A                                      |
+| *Platform*     | *Main account*                                                      | *Secondary account*                      |
+| -------------- | ------------------------------------------------------------------- | ---------------------------------------- |
+| **E-mail**     | foxtailoromis@gmail.com                                             | moonythedelusional@gmail.com             |
+| **Github**     | [WolfQuery](https://github.com/WolfQuery)                           | N/A                                      |
+| **Codeberg**   | [WolfQuery](https://codeberg.org/WolfQuery)                         | N/A                                      |
+| **Tumblr**     | [@mun-urufu](https://www.tumblr.com/mun-urufu)                      | [@munurufu](https://tumblr.com/munurufu) |
+| **Discord**    | @moonwolf21                                                         | @oromisfoxtail                           |
+| **Instagram**  | [@mybrainisavhs](https://www.instagram.com/mybrainisavhs/)          | N/A                                      |
+| **Reddit**     | [u/TashaTheInkeeper](https://www.reddit.com/user/TashaTheInnkeeper) | N/A                                      |
+| **Soundcloud** | [MyBrainIsAVHS](https://soundcloud.com/mybrainisavhs)               | N/A                                      |
 
 ---
-*Banner*: from the manga "[Girl from the Other Side](https://en.wikipedia.org/wiki/The_Girl_from_the_Other_Side:_Si%C3%BAil,_a_R%C3%BAn)"
+© Natasha 2025; licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
+*Banner*: from the manga "[Girl from the Other Side](https://en.wikipedia.org/wiki/The_Girl_from_the_Other_Side:_Si%C3%BAil,_a_R%C3%BAn)"; All credit to the authors.
