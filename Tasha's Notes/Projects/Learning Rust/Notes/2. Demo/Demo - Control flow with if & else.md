@@ -1,5 +1,5 @@
 ---
-dg-publish: 
+dg-publish: true
 title: Demo - Control flow with if & else
 chapter: "2.3"
 ---
