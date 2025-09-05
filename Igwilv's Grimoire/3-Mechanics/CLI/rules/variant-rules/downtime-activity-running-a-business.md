@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
-aliases: ["Downtime Activity: Running a Business"]
+aliases:
+- Downtime Activity: Running a Business
 ---
 # Downtime Activity: Running a Business
 *Source: Dungeon Master's Guide p. 129* 

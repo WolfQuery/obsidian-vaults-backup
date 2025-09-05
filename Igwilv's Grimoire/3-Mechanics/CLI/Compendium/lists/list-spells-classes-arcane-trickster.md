@@ -1,0 +1,224 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-note
+tags:
+- ttrpg-cli/spell/list/subclass/arcane-trickster
+aliases:
+- Spells for Arcane Trickster
+---
+# Spells for Arcane Trickster
+
+## Cantrip
+
+- [Acid Splash](/3-Mechanics/CLI/Compendium/spells/acid-splash.md "PHB") at class level 3
+- [Blade Ward](/3-Mechanics/CLI/Compendium/spells/blade-ward.md "PHB") at class level 3
+- [Booming Blade](/3-Mechanics/CLI/Compendium/spells/booming-blade-tce.md "TCE") at class level 3
+- [Chill Touch](/3-Mechanics/CLI/Compendium/spells/chill-touch.md "PHB") at class level 3
+- [Control Flames](/3-Mechanics/CLI/Compendium/spells/control-flames-xge.md "XGE") at class level 3
+- [Create Bonfire](/3-Mechanics/CLI/Compendium/spells/create-bonfire-xge.md "XGE") at class level 3
+- [Dancing Lights](/3-Mechanics/CLI/Compendium/spells/dancing-lights.md "PHB") at class level 3
+- [Fire Bolt](/3-Mechanics/CLI/Compendium/spells/fire-bolt.md "PHB") at class level 3
+- [Friends](/3-Mechanics/CLI/Compendium/spells/friends.md "PHB") at class level 3
+- [Frostbite](/3-Mechanics/CLI/Compendium/spells/frostbite-xge.md "XGE") at class level 3
+- [Green-Flame Blade](/3-Mechanics/CLI/Compendium/spells/green-flame-blade-tce.md "TCE") at class level 3
+- [Gust](/3-Mechanics/CLI/Compendium/spells/gust-xge.md "XGE") at class level 3
+- [Infestation](/3-Mechanics/CLI/Compendium/spells/infestation-xge.md "XGE") at class level 3
+- [Light](/3-Mechanics/CLI/Compendium/spells/light.md "PHB") at class level 3
+- [Lightning Lure](/3-Mechanics/CLI/Compendium/spells/lightning-lure-tce.md "TCE") at class level 3
+- [Mage Hand](/3-Mechanics/CLI/Compendium/spells/mage-hand.md "PHB") at class level 3
+- [Mending](/3-Mechanics/CLI/Compendium/spells/mending.md "PHB") at class level 3
+- [Message](/3-Mechanics/CLI/Compendium/spells/message.md "PHB") at class level 3
+- [Mind Sliver](/3-Mechanics/CLI/Compendium/spells/mind-sliver-tce.md "TCE") at class level 3
+- [Minor Illusion](/3-Mechanics/CLI/Compendium/spells/minor-illusion.md "PHB") at class level 3
+- [Mold Earth](/3-Mechanics/CLI/Compendium/spells/mold-earth-xge.md "XGE") at class level 3
+- [Poison Spray](/3-Mechanics/CLI/Compendium/spells/poison-spray.md "PHB") at class level 3
+- [Prestidigitation](/3-Mechanics/CLI/Compendium/spells/prestidigitation.md "PHB") at class level 3
+- [Ray of Frost](/3-Mechanics/CLI/Compendium/spells/ray-of-frost.md "PHB") at class level 3
+- [Shape Water](/3-Mechanics/CLI/Compendium/spells/shape-water-xge.md "XGE") at class level 3
+- [Shocking Grasp](/3-Mechanics/CLI/Compendium/spells/shocking-grasp.md "PHB") at class level 3
+- [Sword Burst](/3-Mechanics/CLI/Compendium/spells/sword-burst-tce.md "TCE") at class level 3
+- [Thunderclap](/3-Mechanics/CLI/Compendium/spells/thunderclap-xge.md "XGE") at class level 3
+- [Toll the Dead](/3-Mechanics/CLI/Compendium/spells/toll-the-dead-xge.md "XGE") at class level 3
+- [True Strike](/3-Mechanics/CLI/Compendium/spells/true-strike.md "PHB") at class level 3
+
+## 1st Level
+
+- [Absorb Elements](/3-Mechanics/CLI/Compendium/spells/absorb-elements-xge.md "XGE") at class level 3
+- [Alarm](/3-Mechanics/CLI/Compendium/spells/alarm.md "PHB") at class level 3
+- [Burning Hands](/3-Mechanics/CLI/Compendium/spells/burning-hands.md "PHB") at class level 3
+- [Catapult](/3-Mechanics/CLI/Compendium/spells/catapult-xge.md "XGE") at class level 3
+- [Cause Fear](/3-Mechanics/CLI/Compendium/spells/cause-fear-xge.md "XGE") at class level 3
+- [Charm Person](/3-Mechanics/CLI/Compendium/spells/charm-person.md "PHB") at class level 3
+- [Chromatic Orb](/3-Mechanics/CLI/Compendium/spells/chromatic-orb.md "PHB") at class level 3
+- [Color Spray](/3-Mechanics/CLI/Compendium/spells/color-spray.md "PHB") at class level 3
+- [Comprehend Languages](/3-Mechanics/CLI/Compendium/spells/comprehend-languages.md "PHB") at class level 3
+- [Detect Magic](/3-Mechanics/CLI/Compendium/spells/detect-magic.md "PHB") at class level 3
+- [Disguise Self](/3-Mechanics/CLI/Compendium/spells/disguise-self.md "PHB") at class level 3
+- [Earth Tremor](/3-Mechanics/CLI/Compendium/spells/earth-tremor-xge.md "XGE") at class level 3
+- [Expeditious Retreat](/3-Mechanics/CLI/Compendium/spells/expeditious-retreat.md "PHB") at class level 3
+- [False Life](/3-Mechanics/CLI/Compendium/spells/false-life.md "PHB") at class level 3
+- [Feather Fall](/3-Mechanics/CLI/Compendium/spells/feather-fall.md "PHB") at class level 3
+- [Find Familiar](/3-Mechanics/CLI/Compendium/spells/find-familiar.md "PHB") at class level 3
+- [Fog Cloud](/3-Mechanics/CLI/Compendium/spells/fog-cloud.md "PHB") at class level 3
+- [Grease](/3-Mechanics/CLI/Compendium/spells/grease.md "PHB") at class level 3
+- [Ice Knife](/3-Mechanics/CLI/Compendium/spells/ice-knife-xge.md "XGE") at class level 3
+- [Identify](/3-Mechanics/CLI/Compendium/spells/identify.md "PHB") at class level 3
+- [Illusory Script](/3-Mechanics/CLI/Compendium/spells/illusory-script.md "PHB") at class level 3
+- [Jump](/3-Mechanics/CLI/Compendium/spells/jump.md "PHB") at class level 3
+- [Longstrider](/3-Mechanics/CLI/Compendium/spells/longstrider.md "PHB") at class level 3
+- [Mage Armor](/3-Mechanics/CLI/Compendium/spells/mage-armor.md "PHB") at class level 3
+- [Magic Missile](/3-Mechanics/CLI/Compendium/spells/magic-missile.md "PHB") at class level 3
+- [Protection from Evil and Good](/3-Mechanics/CLI/Compendium/spells/protection-from-evil-and-good.md "PHB") at class level 3
+- [Ray of Sickness](/3-Mechanics/CLI/Compendium/spells/ray-of-sickness.md "PHB") at class level 3
+- [Shield](/3-Mechanics/CLI/Compendium/spells/shield.md "PHB") at class level 3
+- [Silent Image](/3-Mechanics/CLI/Compendium/spells/silent-image.md "PHB") at class level 3
+- [Sleep](/3-Mechanics/CLI/Compendium/spells/sleep.md "PHB") at class level 3
+- [Snare](/3-Mechanics/CLI/Compendium/spells/snare-xge.md "XGE") at class level 3
+- [Tasha's Caustic Brew](/3-Mechanics/CLI/Compendium/spells/tashas-caustic-brew-tce.md "TCE") at class level 3
+- [Tasha's Hideous Laughter](/3-Mechanics/CLI/Compendium/spells/tashas-hideous-laughter.md "PHB") at class level 3
+- [Tenser's Floating Disk](/3-Mechanics/CLI/Compendium/spells/tensers-floating-disk.md "PHB") at class level 3
+- [Thunderwave](/3-Mechanics/CLI/Compendium/spells/thunderwave.md "PHB") at class level 3
+- [Unseen Servant](/3-Mechanics/CLI/Compendium/spells/unseen-servant.md "PHB") at class level 3
+- [Witch Bolt](/3-Mechanics/CLI/Compendium/spells/witch-bolt.md "PHB") at class level 3
+
+## 2nd Level
+
+- [Aganazzar's Scorcher](/3-Mechanics/CLI/Compendium/spells/aganazzars-scorcher-xge.md "XGE") at class level 3
+- [Alter Self](/3-Mechanics/CLI/Compendium/spells/alter-self.md "PHB") at class level 3
+- [Arcane Lock](/3-Mechanics/CLI/Compendium/spells/arcane-lock.md "PHB") at class level 3
+- [Augury](/3-Mechanics/CLI/Compendium/spells/augury.md "PHB") at class level 3
+- [Blindness/Deafness](/3-Mechanics/CLI/Compendium/spells/blindness-deafness.md "PHB") at class level 3
+- [Blur](/3-Mechanics/CLI/Compendium/spells/blur.md "PHB") at class level 3
+- [Cloud of Daggers](/3-Mechanics/CLI/Compendium/spells/cloud-of-daggers.md "PHB") at class level 3
+- [Continual Flame](/3-Mechanics/CLI/Compendium/spells/continual-flame.md "PHB") at class level 3
+- [Crown of Madness](/3-Mechanics/CLI/Compendium/spells/crown-of-madness.md "PHB") at class level 3
+- [Darkness](/3-Mechanics/CLI/Compendium/spells/darkness.md "PHB") at class level 3
+- [Darkvision](/3-Mechanics/CLI/Compendium/spells/darkvision.md "PHB") at class level 3
+- [Detect Thoughts](/3-Mechanics/CLI/Compendium/spells/detect-thoughts.md "PHB") at class level 3
+- [Dragon's Breath](/3-Mechanics/CLI/Compendium/spells/dragons-breath-xge.md "XGE") at class level 3
+- [Dust Devil](/3-Mechanics/CLI/Compendium/spells/dust-devil-xge.md "XGE") at class level 3
+- [Earthbind](/3-Mechanics/CLI/Compendium/spells/earthbind-xge.md "XGE") at class level 3
+- [Enhance Ability](/3-Mechanics/CLI/Compendium/spells/enhance-ability.md "PHB") at class level 3
+- [Enlarge/Reduce](/3-Mechanics/CLI/Compendium/spells/enlarge-reduce.md "PHB") at class level 3
+- [Flaming Sphere](/3-Mechanics/CLI/Compendium/spells/flaming-sphere.md "PHB") at class level 3
+- [Gentle Repose](/3-Mechanics/CLI/Compendium/spells/gentle-repose.md "PHB") at class level 3
+- [Gust of Wind](/3-Mechanics/CLI/Compendium/spells/gust-of-wind.md "PHB") at class level 3
+- [Hold Person](/3-Mechanics/CLI/Compendium/spells/hold-person.md "PHB") at class level 3
+- [Invisibility](/3-Mechanics/CLI/Compendium/spells/invisibility.md "PHB") at class level 3
+- [Knock](/3-Mechanics/CLI/Compendium/spells/knock.md "PHB") at class level 3
+- [Levitate](/3-Mechanics/CLI/Compendium/spells/levitate.md "PHB") at class level 3
+- [Locate Object](/3-Mechanics/CLI/Compendium/spells/locate-object.md "PHB") at class level 3
+- [Magic Mouth](/3-Mechanics/CLI/Compendium/spells/magic-mouth.md "PHB") at class level 3
+- [Magic Weapon](/3-Mechanics/CLI/Compendium/spells/magic-weapon.md "PHB") at class level 3
+- [Maximilian's Earthen Grasp](/3-Mechanics/CLI/Compendium/spells/maximilians-earthen-grasp-xge.md "XGE") at class level 3
+- [Melf's Acid Arrow](/3-Mechanics/CLI/Compendium/spells/melfs-acid-arrow.md "PHB") at class level 3
+- [Mind Spike](/3-Mechanics/CLI/Compendium/spells/mind-spike-xge.md "XGE") at class level 3
+- [Mirror Image](/3-Mechanics/CLI/Compendium/spells/mirror-image.md "PHB") at class level 3
+- [Misty Step](/3-Mechanics/CLI/Compendium/spells/misty-step.md "PHB") at class level 3
+- [Nathair's Mischief](/3-Mechanics/CLI/Compendium/spells/nathairs-mischief-ftd.md "FTD") at class level 3
+- [Nystul's Magic Aura](/3-Mechanics/CLI/Compendium/spells/nystuls-magic-aura.md "PHB") at class level 3
+- [Phantasmal Force](/3-Mechanics/CLI/Compendium/spells/phantasmal-force.md "PHB") at class level 3
+- [Pyrotechnics](/3-Mechanics/CLI/Compendium/spells/pyrotechnics-xge.md "XGE") at class level 3
+- [Ray of Enfeeblement](/3-Mechanics/CLI/Compendium/spells/ray-of-enfeeblement.md "PHB") at class level 3
+- [Rime's Binding Ice](/3-Mechanics/CLI/Compendium/spells/rimes-binding-ice-ftd.md "FTD") at class level 3
+- [Rope Trick](/3-Mechanics/CLI/Compendium/spells/rope-trick.md "PHB") at class level 3
+- [Scorching Ray](/3-Mechanics/CLI/Compendium/spells/scorching-ray.md "PHB") at class level 3
+- [See Invisibility](/3-Mechanics/CLI/Compendium/spells/see-invisibility.md "PHB") at class level 3
+- [Shadow Blade](/3-Mechanics/CLI/Compendium/spells/shadow-blade-xge.md "XGE") at class level 3
+- [Shatter](/3-Mechanics/CLI/Compendium/spells/shatter.md "PHB") at class level 3
+- [Skywrite](/3-Mechanics/CLI/Compendium/spells/skywrite-xge.md "XGE") at class level 3
+- [Snilloc's Snowball Swarm](/3-Mechanics/CLI/Compendium/spells/snillocs-snowball-swarm-xge.md "XGE") at class level 3
+- [Spider Climb](/3-Mechanics/CLI/Compendium/spells/spider-climb.md "PHB") at class level 3
+- [Suggestion](/3-Mechanics/CLI/Compendium/spells/suggestion.md "PHB") at class level 3
+- [Tasha's Mind Whip](/3-Mechanics/CLI/Compendium/spells/tashas-mind-whip-tce.md "TCE") at class level 3
+- [Warding Wind](/3-Mechanics/CLI/Compendium/spells/warding-wind-xge.md "XGE") at class level 3
+- [Web](/3-Mechanics/CLI/Compendium/spells/web.md "PHB") at class level 3
+
+## 3rd Level
+
+- [Animate Dead](/3-Mechanics/CLI/Compendium/spells/animate-dead.md "PHB") at class level 3
+- [Ashardalon's Stride](/3-Mechanics/CLI/Compendium/spells/ashardalons-stride-ftd.md "FTD") at class level 3
+- [Bestow Curse](/3-Mechanics/CLI/Compendium/spells/bestow-curse.md "PHB") at class level 3
+- [Blink](/3-Mechanics/CLI/Compendium/spells/blink.md "PHB") at class level 3
+- [Catnap](/3-Mechanics/CLI/Compendium/spells/catnap-xge.md "XGE") at class level 3
+- [Clairvoyance](/3-Mechanics/CLI/Compendium/spells/clairvoyance.md "PHB") at class level 3
+- [Counterspell](/3-Mechanics/CLI/Compendium/spells/counterspell.md "PHB") at class level 3
+- [Dispel Magic](/3-Mechanics/CLI/Compendium/spells/dispel-magic.md "PHB") at class level 3
+- [Enemies Abound](/3-Mechanics/CLI/Compendium/spells/enemies-abound-xge.md "XGE") at class level 3
+- [Erupting Earth](/3-Mechanics/CLI/Compendium/spells/erupting-earth-xge.md "XGE") at class level 3
+- [Fear](/3-Mechanics/CLI/Compendium/spells/fear.md "PHB") at class level 3
+- [Feign Death](/3-Mechanics/CLI/Compendium/spells/feign-death.md "PHB") at class level 3
+- [Fireball](/3-Mechanics/CLI/Compendium/spells/fireball.md "PHB") at class level 3
+- [Flame Arrows](/3-Mechanics/CLI/Compendium/spells/flame-arrows-xge.md "XGE") at class level 3
+- [Fly](/3-Mechanics/CLI/Compendium/spells/fly.md "PHB") at class level 3
+- [Gaseous Form](/3-Mechanics/CLI/Compendium/spells/gaseous-form.md "PHB") at class level 3
+- [Glyph of Warding](/3-Mechanics/CLI/Compendium/spells/glyph-of-warding.md "PHB") at class level 3
+- [Haste](/3-Mechanics/CLI/Compendium/spells/haste.md "PHB") at class level 3
+- [Hypnotic Pattern](/3-Mechanics/CLI/Compendium/spells/hypnotic-pattern.md "PHB") at class level 3
+- [Intellect Fortress](/3-Mechanics/CLI/Compendium/spells/intellect-fortress-tce.md "TCE") at class level 3
+- [Leomund's Tiny Hut](/3-Mechanics/CLI/Compendium/spells/leomunds-tiny-hut.md "PHB") at class level 3
+- [Life Transference](/3-Mechanics/CLI/Compendium/spells/life-transference-xge.md "XGE") at class level 3
+- [Lightning Bolt](/3-Mechanics/CLI/Compendium/spells/lightning-bolt.md "PHB") at class level 3
+- [Magic Circle](/3-Mechanics/CLI/Compendium/spells/magic-circle.md "PHB") at class level 3
+- [Major Image](/3-Mechanics/CLI/Compendium/spells/major-image.md "PHB") at class level 3
+- [Melf's Minute Meteors](/3-Mechanics/CLI/Compendium/spells/melfs-minute-meteors-xge.md "XGE") at class level 3
+- [Nondetection](/3-Mechanics/CLI/Compendium/spells/nondetection.md "PHB") at class level 3
+- [Phantom Steed](/3-Mechanics/CLI/Compendium/spells/phantom-steed.md "PHB") at class level 3
+- [Protection from Energy](/3-Mechanics/CLI/Compendium/spells/protection-from-energy.md "PHB") at class level 3
+- [Remove Curse](/3-Mechanics/CLI/Compendium/spells/remove-curse.md "PHB") at class level 3
+- [Sending](/3-Mechanics/CLI/Compendium/spells/sending.md "PHB") at class level 3
+- [Sleet Storm](/3-Mechanics/CLI/Compendium/spells/sleet-storm.md "PHB") at class level 3
+- [Slow](/3-Mechanics/CLI/Compendium/spells/slow.md "PHB") at class level 3
+- [Speak with Dead](/3-Mechanics/CLI/Compendium/spells/speak-with-dead.md "PHB") at class level 3
+- [Spirit Shroud](/3-Mechanics/CLI/Compendium/spells/spirit-shroud-tce.md "TCE") at class level 3
+- [Stinking Cloud](/3-Mechanics/CLI/Compendium/spells/stinking-cloud.md "PHB") at class level 3
+- [Summon Fey](/3-Mechanics/CLI/Compendium/spells/summon-fey-tce.md "TCE") at class level 3
+- [Summon Lesser Demons](/3-Mechanics/CLI/Compendium/spells/summon-lesser-demons-xge.md "XGE") at class level 3
+- [Summon Shadowspawn](/3-Mechanics/CLI/Compendium/spells/summon-shadowspawn-tce.md "TCE") at class level 3
+- [Summon Undead](/3-Mechanics/CLI/Compendium/spells/summon-undead-tce.md "TCE") at class level 3
+- [Thunder Step](/3-Mechanics/CLI/Compendium/spells/thunder-step-xge.md "XGE") at class level 3
+- [Tidal Wave](/3-Mechanics/CLI/Compendium/spells/tidal-wave-xge.md "XGE") at class level 3
+- [Tiny Servant](/3-Mechanics/CLI/Compendium/spells/tiny-servant-xge.md "XGE") at class level 3
+- [Tongues](/3-Mechanics/CLI/Compendium/spells/tongues.md "PHB") at class level 3
+- [Vampiric Touch](/3-Mechanics/CLI/Compendium/spells/vampiric-touch.md "PHB") at class level 3
+- [Wall of Sand](/3-Mechanics/CLI/Compendium/spells/wall-of-sand-xge.md "XGE") at class level 3
+- [Wall of Water](/3-Mechanics/CLI/Compendium/spells/wall-of-water-xge.md "XGE") at class level 3
+- [Water Breathing](/3-Mechanics/CLI/Compendium/spells/water-breathing.md "PHB") at class level 3
+
+## 4th Level
+
+- [Arcane Eye](/3-Mechanics/CLI/Compendium/spells/arcane-eye.md "PHB") at class level 3
+- [Banishment](/3-Mechanics/CLI/Compendium/spells/banishment.md "PHB") at class level 3
+- [Blight](/3-Mechanics/CLI/Compendium/spells/blight.md "PHB") at class level 3
+- [Charm Monster](/3-Mechanics/CLI/Compendium/spells/charm-monster-xge.md "XGE") at class level 3
+- [Confusion](/3-Mechanics/CLI/Compendium/spells/confusion.md "PHB") at class level 3
+- [Conjure Minor Elementals](/3-Mechanics/CLI/Compendium/spells/conjure-minor-elementals.md "PHB") at class level 3
+- [Control Water](/3-Mechanics/CLI/Compendium/spells/control-water.md "PHB") at class level 3
+- [Dimension Door](/3-Mechanics/CLI/Compendium/spells/dimension-door.md "PHB") at class level 3
+- [Divination](/3-Mechanics/CLI/Compendium/spells/divination.md "PHB") at class level 3
+- [Elemental Bane](/3-Mechanics/CLI/Compendium/spells/elemental-bane-xge.md "XGE") at class level 3
+- [Evard's Black Tentacles](/3-Mechanics/CLI/Compendium/spells/evards-black-tentacles.md "PHB") at class level 3
+- [Fabricate](/3-Mechanics/CLI/Compendium/spells/fabricate.md "PHB") at class level 3
+- [Fire Shield](/3-Mechanics/CLI/Compendium/spells/fire-shield.md "PHB") at class level 3
+- [Greater Invisibility](/3-Mechanics/CLI/Compendium/spells/greater-invisibility.md "PHB") at class level 3
+- [Hallucinatory Terrain](/3-Mechanics/CLI/Compendium/spells/hallucinatory-terrain.md "PHB") at class level 3
+- [Ice Storm](/3-Mechanics/CLI/Compendium/spells/ice-storm.md "PHB") at class level 3
+- [Leomund's Secret Chest](/3-Mechanics/CLI/Compendium/spells/leomunds-secret-chest.md "PHB") at class level 3
+- [Locate Creature](/3-Mechanics/CLI/Compendium/spells/locate-creature.md "PHB") at class level 3
+- [Mordenkainen's Faithful Hound](/3-Mechanics/CLI/Compendium/spells/mordenkainens-faithful-hound.md "PHB") at class level 3
+- [Mordenkainen's Private Sanctum](/3-Mechanics/CLI/Compendium/spells/mordenkainens-private-sanctum.md "PHB") at class level 3
+- [Otiluke's Resilient Sphere](/3-Mechanics/CLI/Compendium/spells/otilukes-resilient-sphere.md "PHB") at class level 3
+- [Phantasmal Killer](/3-Mechanics/CLI/Compendium/spells/phantasmal-killer.md "PHB") at class level 3
+- [Polymorph](/3-Mechanics/CLI/Compendium/spells/polymorph.md "PHB") at class level 3
+- [Raulothim's Psychic Lance](/3-Mechanics/CLI/Compendium/spells/raulothims-psychic-lance-ftd.md "FTD") at class level 3
+- [Sickening Radiance](/3-Mechanics/CLI/Compendium/spells/sickening-radiance-xge.md "XGE") at class level 3
+- [Stone Shape](/3-Mechanics/CLI/Compendium/spells/stone-shape.md "PHB") at class level 3
+- [Stoneskin](/3-Mechanics/CLI/Compendium/spells/stoneskin.md "PHB") at class level 3
+- [Storm Sphere](/3-Mechanics/CLI/Compendium/spells/storm-sphere-xge.md "XGE") at class level 3
+- [Summon Aberration](/3-Mechanics/CLI/Compendium/spells/summon-aberration-tce.md "TCE") at class level 3
+- [Summon Construct](/3-Mechanics/CLI/Compendium/spells/summon-construct-tce.md "TCE") at class level 3
+- [Summon Elemental](/3-Mechanics/CLI/Compendium/spells/summon-elemental-tce.md "TCE") at class level 3
+- [Summon Greater Demon](/3-Mechanics/CLI/Compendium/spells/summon-greater-demon-xge.md "XGE") at class level 3
+- [Vitriolic Sphere](/3-Mechanics/CLI/Compendium/spells/vitriolic-sphere-xge.md "XGE") at class level 3
+- [Wall of Fire](/3-Mechanics/CLI/Compendium/spells/wall-of-fire.md "PHB") at class level 3
+- [Watery Sphere](/3-Mechanics/CLI/Compendium/spells/watery-sphere-xge.md "XGE") at class level 3

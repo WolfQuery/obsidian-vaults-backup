@@ -1,25 +1,7 @@
 {
-  "players": [
-    {
-      "note": "Bob Lunarwell",
-      "path": "D&D@NTK/Characters/Bob Lunarwell.md",
-      "name": "Bob Lunarwell",
-      "ac": "10",
-      "hp": 4,
-      "level": 0,
-      "modifier": 0,
-      "player": true
-    }
-  ],
-  "parties": [
-    {
-      "name": "D&D@NTK",
-      "players": [
-        "Bob Lunarwell"
-      ]
-    }
-  ],
-  "defaultParty": "D&D@NTK",
+  "players": [],
+  "parties": [],
+  "defaultParty": null,
   "statuses": [
     {
       "name": "Blinded",
@@ -106,7 +88,7 @@
   "version": [
     13,
     0,
-    16
+    18
   ],
   "canUseDiceRoll": false,
   "preferStatblockLink": false,
@@ -143,6 +125,7 @@
   "rpgSystem": "dnd5e",
   "logging": true,
   "logFolder": "z_Combat Logs",
+  "resolveTies": "playerFirst",
   "useLegacy": false,
   "diplayPlayerHPValues": true,
   "rollHP": true,

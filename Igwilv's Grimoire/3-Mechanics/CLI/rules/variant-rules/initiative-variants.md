@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
-aliases: ["Initiative Variants"]
+aliases:
+- Initiative Variants
 ---
 # Initiative Variants
 *Source: Dungeon Master's Guide p. 270* 

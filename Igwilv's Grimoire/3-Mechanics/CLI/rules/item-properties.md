@@ -1,7 +1,8 @@
 ---
 obsidianUIMode: preview
 cssclasses: json5e-note
-aliases: ["Item Properties"]
+aliases:
+- Item Properties
 ---
 # Item Properties
 
@@ -101,7 +102,7 @@ You have disadvantage when you use a lance to attack a target within 5 feet of y
 
 ### Net
 
-A Large or smaller creature hit by a net is [restrained](3-Mechanics/CLI/rules/conditions.md#Restrained) until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net.
+A Large or smaller creature hit by a net is [restrained](/3-Mechanics/CLI/Rules/conditions.md#Restrained) until it is freed. A net has no effect on creatures that are formless, or creatures that are Huge or larger. A creature can use its action to make a DC 10 Strength check, freeing itself or another creature within its reach on a success. Dealing 5 slashing damage to the net (AC 10) also frees the creature without harming it, ending the effect and destroying the net.
 
 When you use an action, bonus action, or reaction to attack with a net, you can make only one attack regardless of the number of attacks you can normally make.
 
@@ -109,7 +110,7 @@ When you use an action, bonus action, or reaction to attack with a net, you can 
 
 Some magic items bear curses that bedevil their users, sometimes long after a user has stopped using an item. Most methods of identifying items, including the identify spell, fail to reveal the presence of a curse, although lore might hint at it.
 
-Attunement to a cursed item can't be ended voluntarily unless the curse is broken first, such as with the [remove curse](3-Mechanics/CLI/spells/remove-curse.md) spell.
+Attunement to a cursed item can't be ended voluntarily unless the curse is broken first, such as with the [remove curse](/3-Mechanics/CLI/Compendium/spells/remove-curse.md) spell.
 
 ## Poison
 

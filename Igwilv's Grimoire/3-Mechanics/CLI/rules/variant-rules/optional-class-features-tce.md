@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/tce
-aliases: ["Optional Class Features"]
+aliases:
+- Optional Class Features
 ---
 # Optional Class Features
 *Source: Tasha's Cauldron of Everything p. 24* 

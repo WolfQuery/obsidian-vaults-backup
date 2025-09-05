@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
-aliases: ["Renown"]
+aliases:
+- Renown
 ---
 # Renown
 *Source: Dungeon Master's Guide p. 22* 
@@ -34,7 +35,7 @@ You can add rank prerequisites. For example, a character affiliated with the Lor
 
 You can set these thresholds of renown to any numbers that work for your game, creating appropriate ranks and titles for the organizations in your campaign.
 
-![Examples of Faction Ranks](3-Mechanics/CLI/tables/examples-of-faction-ranks.md)
+![Examples of Faction Ranks](/3-Mechanics/CLI/Compendium/tables/examples-of-faction-ranks.md)
 
 ### Attitudes of Organization Members
 

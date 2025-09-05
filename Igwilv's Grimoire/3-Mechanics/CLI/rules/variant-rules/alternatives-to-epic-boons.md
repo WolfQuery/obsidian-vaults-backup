@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
-aliases: ["Alternatives to Epic Boons"]
+aliases:
+- Alternatives to Epic Boons
 ---
 # Alternatives to Epic Boons
 *Source: Dungeon Master's Guide p. 230* 

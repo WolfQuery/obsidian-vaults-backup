@@ -1,0 +1,55 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-note
+tags:
+- ttrpg-cli/spell/list/subclass/nature-domain
+aliases:
+- Spells for Nature Domain
+---
+# Spells for Nature Domain
+
+## Cantrip
+
+- [Control Flames](/3-Mechanics/CLI/Compendium/spells/control-flames-xge.md "XGE") 
+- [Create Bonfire](/3-Mechanics/CLI/Compendium/spells/create-bonfire-xge.md "XGE") 
+- [Druidcraft](/3-Mechanics/CLI/Compendium/spells/druidcraft.md "PHB") 
+- [Frostbite](/3-Mechanics/CLI/Compendium/spells/frostbite-xge.md "XGE") 
+- [Guidance](/3-Mechanics/CLI/Compendium/spells/guidance.md "PHB") 
+- [Gust](/3-Mechanics/CLI/Compendium/spells/gust-xge.md "XGE") 
+- [Infestation](/3-Mechanics/CLI/Compendium/spells/infestation-xge.md "XGE") 
+- [Magic Stone](/3-Mechanics/CLI/Compendium/spells/magic-stone-xge.md "XGE") 
+- [Mending](/3-Mechanics/CLI/Compendium/spells/mending.md "PHB") 
+- [Mold Earth](/3-Mechanics/CLI/Compendium/spells/mold-earth-xge.md "XGE") 
+- [Poison Spray](/3-Mechanics/CLI/Compendium/spells/poison-spray.md "PHB") 
+- [Primal Savagery](/3-Mechanics/CLI/Compendium/spells/primal-savagery-xge.md "XGE") 
+- [Produce Flame](/3-Mechanics/CLI/Compendium/spells/produce-flame.md "PHB") 
+- [Resistance](/3-Mechanics/CLI/Compendium/spells/resistance.md "PHB") 
+- [Shape Water](/3-Mechanics/CLI/Compendium/spells/shape-water-xge.md "XGE") 
+- [Shillelagh](/3-Mechanics/CLI/Compendium/spells/shillelagh.md "PHB") 
+- [Thorn Whip](/3-Mechanics/CLI/Compendium/spells/thorn-whip.md "PHB") 
+- [Thunderclap](/3-Mechanics/CLI/Compendium/spells/thunderclap-xge.md "XGE") 
+
+## 1st Level
+
+- [Animal Friendship](/3-Mechanics/CLI/Compendium/spells/animal-friendship.md "PHB") 
+- [Speak with Animals](/3-Mechanics/CLI/Compendium/spells/speak-with-animals.md "PHB") 
+
+## 2nd Level
+
+- [Barkskin](/3-Mechanics/CLI/Compendium/spells/barkskin.md "PHB") 
+- [Spike Growth](/3-Mechanics/CLI/Compendium/spells/spike-growth.md "PHB") 
+
+## 3rd Level
+
+- [Plant Growth](/3-Mechanics/CLI/Compendium/spells/plant-growth.md "PHB") 
+- [Wind Wall](/3-Mechanics/CLI/Compendium/spells/wind-wall.md "PHB") 
+
+## 4th Level
+
+- [Dominate Beast](/3-Mechanics/CLI/Compendium/spells/dominate-beast.md "PHB") 
+- [Grasping Vine](/3-Mechanics/CLI/Compendium/spells/grasping-vine.md "PHB") 
+
+## 5th Level
+
+- [Insect Plague](/3-Mechanics/CLI/Compendium/spells/insect-plague.md "PHB") 
+- [Tree Stride](/3-Mechanics/CLI/Compendium/spells/tree-stride.md "PHB")

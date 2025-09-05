@@ -50,7 +50,7 @@ I make music once in a while... Might post some here
 I write some essays and thoughts once in a while, you'll see them here <3
 ```dataview
 table without id link(file.name, title) as "Title", date as "Published"
-from "Blog Posts"
+from "1. Blog Posts"
 where contains(tags, "blog") and date and dg-publish = true
 sort date desc
 limit 5
@@ -59,7 +59,7 @@ limit 5
 > [!example]- All blog posts
 >```dataview
 >table without id link(file.name, title) as "Title", date as "Published"
->from "Blog Posts"
+>from "1. Blog Posts"
 >where contains(tags, "blog") and date and dg-publish = true
 >sort date desc
 >```
@@ -85,3 +85,4 @@ While you're reading this I definitely **recommend** also taking a look at my **
 ---
 © Natasha 2025; licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 *Banner*: from the manga "[Girl from the Other Side](https://en.wikipedia.org/wiki/The_Girl_from_the_Other_Side:_Si%C3%BAil,_a_R%C3%BAn)"; All credit to the authors.
+[[School - Master|nots]]

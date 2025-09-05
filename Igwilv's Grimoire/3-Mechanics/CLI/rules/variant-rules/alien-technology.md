@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
-aliases: ["Alien Technology"]
+aliases:
+- Alien Technology
 ---
 # Alien Technology
 *Source: Dungeon Master's Guide p. 268* 
@@ -14,4 +15,4 @@ To determine how the technology works, a character must succeed on a number of I
 
 A character who has seen an item used or has operated a similar item has advantage on Intelligence checks made to figure out its use.
 
-![Figuring Out Alien Technology](3-Mechanics/CLI/tables/figuring-out-alien-technology.md)
+![Figuring Out Alien Technology](/3-Mechanics/CLI/Compendium/tables/figuring-out-alien-technology.md)

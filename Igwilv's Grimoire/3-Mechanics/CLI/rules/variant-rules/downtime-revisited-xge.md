@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/xge
-aliases: ["Downtime Revisited"]
+aliases:
+- Downtime Revisited
 ---
 # Downtime Revisited
 *Source: Xanathar's Guide to Everything p. 123* 
@@ -104,16 +105,16 @@ The following activities are suitable for any character who can afford to pursue
 
 See the following entries for details:
 
-- [Buying a Magic Item](3-Mechanics/CLI/rules/variant-rules/downtime-activity-buying-a-magic-item-xge.md)  
-- [Carousing](3-Mechanics/CLI/rules/variant-rules/downtime-activity-carousing-xge.md)  
-- [Crafting an Item](3-Mechanics/CLI/rules/variant-rules/downtime-activity-crafting-an-item-xge.md)  
-- [Crime](3-Mechanics/CLI/rules/variant-rules/downtime-activity-crime-xge.md)  
-- [Gambling](3-Mechanics/CLI/rules/variant-rules/downtime-activity-gambling-xge.md)  
-- [Pit Fighting](3-Mechanics/CLI/rules/variant-rules/downtime-activity-pit-fighting-xge.md)  
-- [Relaxation](3-Mechanics/CLI/rules/variant-rules/downtime-activity-relaxation-xge.md)  
-- [Religious Service](3-Mechanics/CLI/rules/variant-rules/downtime-activity-religious-service-xge.md)  
-- [Research](3-Mechanics/CLI/rules/variant-rules/downtime-activity-research-xge.md)  
-- [Scribing a Spell Scroll](3-Mechanics/CLI/rules/variant-rules/downtime-activity-scribing-a-spell-scroll-xge.md)  
-- [Selling a Magic Item](3-Mechanics/CLI/rules/variant-rules/downtime-activity-selling-a-magic-item-xge.md)  
-- [Training](3-Mechanics/CLI/rules/variant-rules/downtime-activity-training-xge.md)  
-- [Work](3-Mechanics/CLI/rules/variant-rules/downtime-activity-work-xge.md)
+- [Buying a Magic Item](/3-Mechanics/CLI/Rules/variant-rules/downtime-activity-buying-a-magic-item-xge.md)  
+- [Carousing](/3-Mechanics/CLI/Rules/variant-rules/downtime-activity-carousing-xge.md)  
+- [Crafting an Item](/3-Mechanics/CLI/Rules/variant-rules/downtime-activity-crafting-an-item-xge.md)  
+- [Crime](/3-Mechanics/CLI/Rules/variant-rules/downtime-activity-crime-xge.md)  
+- [Gambling](/3-Mechanics/CLI/Rules/variant-rules/downtime-activity-gambling-xge.md)  
+- [Pit Fighting](/3-Mechanics/CLI/Rules/variant-rules/downtime-activity-pit-fighting-xge.md)  
+- [Relaxation](/3-Mechanics/CLI/Rules/variant-rules/downtime-activity-relaxation-xge.md)  
+- [Religious Service](/3-Mechanics/CLI/Rules/variant-rules/downtime-activity-religious-service-xge.md)  
+- [Research](/3-Mechanics/CLI/Rules/variant-rules/downtime-activity-research-xge.md)  
+- [Scribing a Spell Scroll](/3-Mechanics/CLI/Rules/variant-rules/downtime-activity-scribing-a-spell-scroll-xge.md)  
+- [Selling a Magic Item](/3-Mechanics/CLI/Rules/variant-rules/downtime-activity-selling-a-magic-item-xge.md)  
+- [Training](/3-Mechanics/CLI/Rules/variant-rules/downtime-activity-training-xge.md)  
+- [Work](/3-Mechanics/CLI/Rules/variant-rules/downtime-activity-work-xge.md)

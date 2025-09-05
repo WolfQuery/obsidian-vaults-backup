@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
-aliases: ["Plot Points"]
+aliases:
+- Plot Points
 ---
 # Plot Points
 *Source: Dungeon Master's Guide p. 269* 

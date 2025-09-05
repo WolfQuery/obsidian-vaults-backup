@@ -4,7 +4,7 @@ title: D&D@NTK
 PartyLevel: 2
 StoryCompletion: false
 NumberOfCharacters: 3
-description: Beginning
+description: Discontinued
 dg-publish: true
 ---
 # Characters

@@ -1,0 +1,37 @@
+---
+obsidianUIMode: preview
+cssclasses: json5e-spell
+tags:
+- ttrpg-cli/compendium/src/5e/phb
+- ttrpg-cli/spell/class/bard
+- ttrpg-cli/spell/class/cleric
+- ttrpg-cli/spell/level/3rd-level
+- ttrpg-cli/spell/school/abjuration
+- ttrpg-cli/spell/subclass/divine-soul
+- ttrpg-cli/spell/subclass/life-domain
+- ttrpg-cli/spell/subclass/oath-of-devotion
+- ttrpg-cli/spell/subclass/peace-domain
+classes:
+- Bard
+- Cleric
+- Cleric (Life Domain)
+- Cleric (Peace Domain)
+- Paladin (Oath of Devotion)
+- Sorcerer (Divine Soul)
+aliases:
+- Beacon of Hope
+---
+# Beacon of Hope
+*3rd-level, Abjuration*  
+
+
+- **Casting time:** 1 Action
+- **Range:** 30 feet
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
+
+This spell bestows hope and vitality. Choose any number of creatures within range. For the duration, each target has advantage on Wisdom saving throws and death saving throws, and regains the maximum number of hit points possible from any healing.
+
+**Classes**: [Bard](/3-Mechanics/CLI/Compendium/lists/list-spells-classes-bard.md); [Sorcerer (Divine Soul)](/3-Mechanics/CLI/Compendium/lists/list-spells-classes-divine-soul-xge.md "subclass=XGE"); [Paladin (Oath of Devotion)](/3-Mechanics/CLI/Compendium/lists/list-spells-classes-oath-of-devotion.md); [Cleric (Peace Domain)](/3-Mechanics/CLI/Compendium/lists/list-spells-classes-peace-domain-tce.md "subclass=TCE"); [Cleric](/3-Mechanics/CLI/Compendium/lists/list-spells-classes-cleric.md); [Cleric (Life Domain)](/3-Mechanics/CLI/Compendium/lists/list-spells-classes-life-domain.md)
+
+*Source: Player's Handbook p. 217. Available in the <span title='Systems Reference Document (5.1)'>SRD</span> and the Basic Rules (2014)*

@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
-aliases: ["Rest Variants"]
+aliases:
+- Rest Variants
 ---
 # Rest Variants
 *Source: Dungeon Master's Guide p. 267* 

@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "2216941b55d18dc7",
+        "id": "008e13026178b659",
         "type": "tabs",
         "children": [
           {
-            "id": "7443866f66bf35ad",
+            "id": "88366c4f23a3c933",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "D&D@NTK/D&D@NTK.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "D&D@NTK"
+              "title": "New tab"
             }
           }
         ]
@@ -89,23 +85,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2a9a9a13c8fea291",
-            "type": "leaf",
-            "state": {
-              "type": "fantasy-statblocks-creature-pane",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
             "id": "d3471157657f22ac",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
             }
           },
           {
@@ -197,8 +183,8 @@
             "state": {
               "type": "DICE_ROLLER_VIEW",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
             }
           },
           {
@@ -207,12 +193,32 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
             }
           },
           {
             "id": "7eb9ce9488e6b3bc",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "DICE_ROLLER_VIEW"
+            }
+          },
+          {
+            "id": "583d9c83d96a2c02",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
+            }
+          },
+          {
+            "id": "1324bbb9c0b92275",
             "type": "leaf",
             "state": {
               "type": "DICE_ROLLER_VIEW",
@@ -222,17 +228,17 @@
             }
           },
           {
-            "id": "583d9c83d96a2c02",
+            "id": "42556b3dd89ff280",
             "type": "leaf",
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -240,6 +246,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -256,49 +263,53 @@
       "remotely-save:Remotely Save": false
     }
   },
-  "active": "7443866f66bf35ad",
+  "active": "e8da61496b0cd977",
   "lastOpenFiles": [
-    "3-Mechanics/CLI/adventures/keys-from-the-golden-vault/03-the-stygian-gambit.md",
-    "D&D@NTK/Quests/The Afterlife Casino Heist.md",
-    "D&D@NTK/D&D@NTK.md",
-    "Party Backstory.md",
-    "D&D@NTK/Locations/Waterdeep.md",
-    "z_Templates/Organization/LOCATION.md",
-    "D&D@NTK/NPCs/Verity Kye.md",
-    "D&D@NTK/Factions/The Red Veil Syndicate.md",
-    "D&D@NTK/Factions",
-    "D&D@NTK/Locations/Afterlife Casino.md",
-    "D&D@NTK/Characters/Ace Cerulean.md",
-    "D&D@NTK/Characters/Bob Lunarwell.md",
-    "3-Mechanics/CLI/rules/skills.md",
-    "z_Templates/Organization/SESSION JOURNAL.md",
-    "z_Templates/Characters/NPC.md",
-    "z_Assets/the stygian gambit/golden key.webp",
-    "z_Assets/the stygian gambit",
-    "z_Assets/New folder",
-    "z_Assets/Image-not-found.png",
-    "D&D@NTK/Session Notes/03.04.2025.md",
-    "D&D@NTK/Session Notes",
-    "z_Templates/Organization/QUEST.md",
-    "3-Mechanics/CLI/adventures/keys-from-the-golden-vault/img/014-02-003-player-map.webp",
-    "3-Mechanics/CLI/adventures/keys-from-the-golden-vault/15-credits.md",
-    "z_Combat Logs/1743676958710 - Combat.md",
-    "z_Combat Logs",
-    "3-Mechanics/CLI/classes/classes.md",
+    "D&D@NTK/Untitled",
     "Aposthate.md",
+    "D&D@NTK/Characters/Party Backstory.md",
+    "D&D@NTK/D&D@NTK.md",
+    "Home.md",
     "Doctor.md",
-    "Mechanics/CLI/spells/toll-the-dead-xge.md",
-    "Mechanics/CLI/rules/variant-rules/tying-knots-xge.md",
-    "Mechanics/CLI/rules/variant-rules/downtime-revisited-xge.md",
-    "Mechanics/CLI/rules/variant-rules/tool-proficiencies-xge.md",
-    "Mechanics/CLI/rules/variant-rules/spellcasting-xge.md",
-    "Mechanics/CLI/rules/variant-rules",
-    "Mechanics/CLI/books/xanathars-guide-to-everything",
-    "Mechanics/CLI/books/players-handbook-2014",
-    "Mechanics/CLI/books/mordenkainen-presents-monsters-of-the-multiverse",
-    "Mechanics/CLI/books/tashas-cauldron-of-everything",
-    "z_Assets/banners/tashas-cover-e1673761400814.png",
-    "z_Assets/digital garden/grimoire icon.svg",
-    "z_Assets/portraits/Bob Lunarwell.jpg"
+    "3-Mechanics/CLI/Compendium/adventures/waterdeep-dungeon-of-the-mad-mage/img/093-636764577391179535.webp",
+    "3-Mechanics/CLI/Compendium/adventures/waterdeep-dungeon-of-the-mad-mage/img/cover.webp",
+    "3-Mechanics/CLI/Compendium/adventures/waterdeep-dungeon-of-the-mad-mage/img/key.webp",
+    "3-Mechanics/CLI/Compendium/adventures/waterdeep-dungeon-of-the-mad-mage/img/092-636331340815791689.webp",
+    "3-Mechanics/CLI/Compendium/adventures/waterdeep-dungeon-of-the-mad-mage/img/091-636331381858675803.webp",
+    "3-Mechanics/CLI/Compendium/adventures/waterdeep-dungeon-of-the-mad-mage/img/090-636764577191537221.webp",
+    "3-Mechanics/CLI/Compendium/adventures/waterdeep-dungeon-of-the-mad-mage/img/089-636764576973103179.webp",
+    "3-Mechanics/CLI/Compendium/adventures/waterdeep-dungeon-of-the-mad-mage/img/088-636609838742538624.webp",
+    "3-Mechanics/CLI/Compendium/adventures/waterdeep-dungeon-of-the-mad-mage/img/089-26-02.webp",
+    "3-Mechanics/CLI/Compendium/adventures/waterdeep-dungeon-of-the-mad-mage/img/087-636764575275750736.webp",
+    "3-Mechanics/CLI/Compendium/adventures/waterdeep-dungeon-of-the-mad-mage/30-credits.md",
+    "3-Mechanics/CLI/Compendium/adventures/waterdeep-dungeon-of-the-mad-mage/28-appendix-c-secrets-deck.md",
+    "3-Mechanics/CLI/Compendium/adventures/waterdeep-dungeon-of-the-mad-mage/img",
+    "3-Mechanics/CLI/Compendium/adventures/waterdeep-dungeon-of-the-mad-mage/29-appendix-d-dungeon-key.md",
+    "3-Mechanics/CLI/Compendium/adventures/waterdeep-dungeon-of-the-mad-mage/27-appendix-b-elder-runes-deck.md",
+    "3-Mechanics/CLI/Compendium/adventures/waterdeep-dungeon-of-the-mad-mage/26-appendix-a-dungeon-denizens.md",
+    "3-Mechanics/CLI/Compendium/adventures/waterdeep-dungeon-of-the-mad-mage/25-skullport.md",
+    "3-Mechanics/CLI/Compendium/adventures/waterdeep-dungeon-of-the-mad-mage/24-level-23-mad-wizards-lair.md",
+    "3-Mechanics/CLI/Compendium/adventures/waterdeep-dungeon-of-the-mad-mage/23-level-22-shadowdusk-hold.md",
+    "3-Mechanics/CLI/Compendium/adventures/waterdeep-dungeon-of-the-mad-mage/22-level-21-terminus-level.md",
+    "3-Mechanics/CLI/Compendium/adventures/waterdeep-dungeon-of-the-mad-mage/21-level-20-runestone-caverns.md",
+    "3-Mechanics/CLI/Compendium/adventures/waterdeep-dungeon-of-the-mad-mage/20-level-19-caverns-of-ooze.md",
+    "3-Mechanics/CLI/Compendium/adventures/waterdeep-dungeon-of-the-mad-mage/19-level-18-vanrakdoom.md",
+    "3-Mechanics/CLI/Compendium/adventures/waterdeep-dungeon-of-the-mad-mage/18-level-17-seadeeps.md",
+    "3-Mechanics/CLI/Compendium/adventures/waterdeep-dungeon-of-the-mad-mage/17-level-16-crystal-labyrinth.md",
+    "3-Mechanics/CLI/Compendium/adventures/waterdeep-dungeon-of-the-mad-mage/16-level-15-obstacle-course.md",
+    "3-Mechanics/CLI/Compendium/adventures/waterdeep-dungeon-of-the-mad-mage/15-level-14-arcturiadoom.md",
+    "3-Mechanics/CLI/Compendium/adventures/waterdeep-dungeon-of-the-mad-mage/14-level-13-trobriands-graveyard.md",
+    "3-Mechanics/CLI/Compendium/adventures/waterdeep-dungeon-of-the-mad-mage/13-level-12-maze-level.md",
+    "3-Mechanics/CLI/Compendium/adventures/waterdeep-dungeon-of-the-mad-mage/12-level-11-troglodyte-warrens.md",
+    "3-Mechanics/CLI/Compendium/adventures/waterdeep-dungeon-of-the-mad-mage/11-level-10-muirals-gauntlet.md",
+    "3-Mechanics/CLI/Compendium/adventures/waterdeep-dungeon-of-the-mad-mage",
+    "3-Mechanics/CLI/Compendium/adventures/waterdeep-dragon-heist/img",
+    "3-Mechanics/CLI/Compendium/adventures/waterdeep-dragon-heist",
+    "3-Mechanics/CLI/Compendium/adventures/lost-mine-of-phandelver/img",
+    "3-Mechanics/CLI/Compendium/adventures/lost-mine-of-phandelver",
+    "3-Mechanics/CLI/Compendium/adventures/keys-from-the-golden-vault/img",
+    "3-Mechanics/CLI/Compendium/adventures/keys-from-the-golden-vault",
+    "3-Mechanics/CLI/Compendium/adventures/essentials-kit-dragon-of-icespire-peak/img",
+    "3-Mechanics/CLI/Compendium/adventures/essentials-kit-dragon-of-icespire-peak"
   ]
 }

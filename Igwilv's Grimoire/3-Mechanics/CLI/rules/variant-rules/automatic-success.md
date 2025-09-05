@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
-aliases: ["Automatic Success"]
+aliases:
+- Automatic Success
 ---
 # Automatic Success
 *Source: Dungeon Master's Guide p. 239* 

@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
-aliases: ["Proficiency Dice"]
+aliases:
+- Proficiency Dice
 ---
 # Proficiency Dice
 *Source: Dungeon Master's Guide p. 263* 
@@ -14,4 +15,4 @@ Whenever a feature, such as the rogue's Expertise, lets a character double his o
 
 This option is intended for player characters and nonplayer characters who have levels, as opposed to monsters who don't.
 
-![Proficiency Dice](3-Mechanics/CLI/tables/proficiency-dice.md)
+![Proficiency Dice](/3-Mechanics/CLI/Compendium/tables/proficiency-dice.md)

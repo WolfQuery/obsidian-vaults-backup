@@ -4,39 +4,36 @@
     "type": "split",
     "children": [
       {
-        "id": "09ddfbe244222af5",
+        "id": "bf72c1bf98a058bd",
         "type": "tabs",
         "children": [
           {
-            "id": "20729bfa2c2deb68",
+            "id": "f3bf0ab1b32ea84d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Learning Rust/Learning programming in Rust.md",
-                "mode": "preview",
+                "file": "3. School/Physics/q1/phys-q1-MKe-Electricity.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Learning programming in Rust"
+              "title": "phys-q1-MKe-Electricity"
             }
           },
           {
-            "id": "d5fe8a6ad8ff265b",
+            "id": "be96139ea637ee8f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Projects/Learning Rust/Notes/3. Lecture/Lecture - enum.md",
-                "mode": "preview",
-                "source": false
+                "file": "z_Excalidraw/Drawing 2025-09-05 10.52.30.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Lecture - enum"
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2025-09-05 10.52.30.excalidraw"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#programming,python,cli",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -83,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "043f1810d6bf5deb",
@@ -185,10 +182,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
@@ -199,53 +197,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d5fe8a6ad8ff265b",
+  "active": "f38f543eb704a640",
   "lastOpenFiles": [
-    "Projects/Learning Rust/Learning programming in Rust.md",
-    "Excalidraw/Drawing 2025-07-27 22.02.27.excalidraw.md",
-    "Projects/Learning Rust/Notes/2. Demo/Demo - Enum.md",
-    "Projects/Learning Rust/Notes/3. Lecture/Lecture - enum.md",
-    "Projects/Learning Rust/Notes/2. Demo/Demo - Repetition using while.md",
-    "Excalidraw/Drawing 2025-07-26 15.01.37.excalidraw.png",
-    "Excalidraw/Drawing 2025-07-27 21.44.54.excalidraw.md",
-    "Projects/Learning Rust/Notes/3. Lecture",
-    "z_Assets/Pictures/Excalidraw/Pasted image 20250727214739.png",
-    "Projects/Learning Rust/Notes/2. Demo/Demo - Repetition using loop.md",
+    "z_Assets/Pictures/Excalidraw/Pasted image 20250905105817.png",
+    "z_Excalidraw/Drawing 2025-09-05 10.52.30.excalidraw.md",
+    "3. School/Physics/q1/phys-q1-MKe-Electricity.md",
+    "z_Assets/Pictures/Excalidraw/Pasted Image 20250905105744_103.png",
+    "z_Assets/Pictures/Excalidraw/Pasted Image 20250905105715_413.png",
+    "z_Excalidraw/Drawing 2025-09-05 09.16.59.excalidraw.md",
     "Home.md",
-    "Projects/Learning Rust/Notes/2. Demo/Demo - Control flow with if & else.md",
+    "3. School/School - Master.md",
+    "3. School/Čeština/q1/cz-q1-OKo-Baroko_v_Evropě.md",
+    "1. Blog Posts/Hello World.md",
+    "1. Blog Posts/Eroticism of the Machine.md",
+    "3. School/Biology/q1/bio-q1-MKe-Respiratory_System.md",
+    "3. School/Physics/q1",
+    "3. School/Physics",
+    "3. School/Math/q1",
+    "3. School/Math",
+    "z_Excalidraw/Drawing 2025-09-02 15.48.01.excalidraw.md",
+    "3. School/OSZ/q1/osz-q1-JTe-Politologie.md",
+    "3. School/Čeština/q1",
+    "3. School/Čeština",
+    "3. School/OSZ/q1",
+    "3. School/OSZ",
+    "3. School/Biology/q1",
+    "3. School/Biology",
+    "2. Projects/Learning Rust/Notes/3. Lecture/Lecture - enum.md",
+    "2. Projects/Learning Rust/Learning programming in Rust.md",
+    "z_Excalidraw/Drawing 2025-07-27 22.02.27.excalidraw.md",
+    "2. Projects/Learning Rust/Notes/2. Demo/Demo - Enum.md",
+    "2. Projects/Learning Rust/Notes/2. Demo/Demo - Repetition using while.md",
+    "z_Excalidraw/Drawing 2025-07-26 15.01.37.excalidraw.png",
+    "z_Excalidraw/Drawing 2025-07-27 21.44.54.excalidraw.md",
+    "z_Assets/Pictures/Excalidraw/Pasted image 20250727214739.png",
+    "2. Projects/Learning Rust/Notes/2. Demo/Demo - Repetition using loop.md",
+    "2. Projects/Learning Rust/Notes/2. Demo/Demo - Control flow with if & else.md",
     "z_Assets/Pictures/Excalidraw/Pasted image 20250727214043.png",
-    "Excalidraw/Drawing 2025-07-27 21.37.37.excalidraw.md",
-    "Projects/Learning Rust/Notes/1. Fundamentals/Fundamentals - Match.md",
-    "Excalidraw/Drawing 2025-07-26 20.12.25.excalidraw.md",
+    "z_Excalidraw/Drawing 2025-07-27 21.37.37.excalidraw.md",
+    "2. Projects/Learning Rust/Notes/1. Fundamentals/Fundamentals - Match.md",
+    "z_Excalidraw/Drawing 2025-07-26 20.12.25.excalidraw.md",
     "z_Assets/Pictures/Excalidraw/Pasted image 20250726205623.png",
     "z_Assets/Pictures/Excalidraw/Pasted image 20250726205616.png",
-    "Excalidraw/Drawing 2025-07-26 20.51.21.excalidraw.md",
-    "Projects/Learning Rust/Notes/2. Demo/Demo - Basic arithmetic.md",
-    "Projects/Learning Rust/Notes/2. Demo/Demo - Comments.md",
-    "Projects/Learning Rust/Notes/3. Activity/Activity - Functions.md",
-    "Projects/Learning Rust/Notes/3. Activity",
-    "Projects/Learning Rust/Notes/1. Fundamentals/Fundamentals - Repetition using loops.md",
-    "Projects/Learning Rust/Notes/2. Demo",
+    "z_Excalidraw/Drawing 2025-07-26 20.51.21.excalidraw.md",
+    "2. Projects/Learning Rust/Notes/2. Demo/Demo - Basic arithmetic.md",
+    "2. Projects/Learning Rust/Notes/2. Demo/Demo - Comments.md",
     "z_Assets/Pictures/Excalidraw/Pasted image 20250726201731.png",
     "Pasted image 20250726201443.png",
-    "Projects/Learning Rust/Notes/1. Fundamentals/Fundamentals - Control flow using 'if'.md",
-    "Excalidraw/Drawing 2025-07-26 19.47.47.excalidraw.md",
-    "z_Assets/Pictures/Excalidraw/Pasted image 20250726151756.png",
-    "z_Assets/Pictures/Screenshots/Pasted image 20250726151717.png",
-    "z_Assets/Pictures/Excalidraw",
-    "Excalidraw/Drawing 2025-07-26 19.36.25.excalidraw.md",
-    "z_Assets/Pictures/Excalidraw/Pasted image 20250726195516.png",
-    "Excalidraw/Drawing 2025-07-26 19.29.46.excalidraw.md",
-    "Excalidraw/Drawing 2025-07-26 15.01.37.excalidraw.md",
-    "Projects/Learning Rust/Notes/1. Fundamentals/Fundamentals - println macro.md",
-    "Projects/Learning Rust/Notes/1. Fundamentals/Fundamentals - Variables.md",
-    "Projects/Learning Rust/Notes/1. Fundamentals/Fundamentals - Functions.md",
-    "Projects/Learning Rust/Notes/1. Fundamentals/Fundamentals - Data Types.md",
-    "z_Assets/Pictures/Screenshots",
-    "Excalidraw",
-    "Projects/Learning Rust/Notes/1. Fundamentals",
-    "Projects/Learning Rust/Notes/Introduction",
-    "Projects/Learning Rust/Notes",
-    "Projects/Learning Rust"
+    "z_Assets/Pictures/Excalidraw/Pasted image 20250726151756.png"
   ]
 }

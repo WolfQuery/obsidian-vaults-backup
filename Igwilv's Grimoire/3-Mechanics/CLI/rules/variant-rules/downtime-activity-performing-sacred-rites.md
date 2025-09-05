@@ -3,7 +3,8 @@ obsidianUIMode: preview
 cssclasses: json5e-note
 tags:
 - ttrpg-cli/compendium/src/5e/dmg
-aliases: ["Downtime Activity: Performing Sacred Rites"]
+aliases:
+- Downtime Activity: Performing Sacred Rites
 ---
 # Downtime Activity: Performing Sacred Rites
 *Source: Dungeon Master's Guide p. 129* 
