@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-# School
+	# School
 ## Biology
 ```dataview
 TABLE WITHOUT ID
@@ -29,6 +29,15 @@ WHERE dg-publish = true AND subject = "math"
 SORT date
 ```
 ---
+## Math in Sciences
+```dataview
+TABLE WITHOUT ID
+link(file.name, title) AS Name, type AS Type, quarter AS Quarter, date AS Date
+FROM "3. School"
+WHERE dg-publish = true AND subject = "mathinscience"
+SORT date
+```
+
 ## OSZ
 ```dataview
 TABLE WITHOUT ID

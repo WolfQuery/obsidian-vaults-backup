@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "bf72c1bf98a058bd",
+        "id": "33ce7d161e873a4d",
         "type": "tabs",
         "children": [
           {
@@ -13,27 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. School/Physics/q1/phys-q1-MKe-Electricity.md",
+                "file": "3. School/Matematika v Přírodních Vědách/q1/testing what brokey.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "phys-q1-MKe-Electricity"
+              "title": "testing what brokey"
             }
           },
           {
-            "id": "be96139ea637ee8f",
+            "id": "94c1be4fbc5af8b4",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "z_Excalidraw/Drawing 2025-09-05 10.52.30.excalidraw.md"
+                "file": "3. School/Matematika v Přírodních Vědách/q1/MiS-q1-KUr-L1.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-09-05 10.52.30.excalidraw"
+              "icon": "lucide-file",
+              "title": "MiS-q1-KUr-L1"
+            }
+          },
+          {
+            "id": "5b45397719787982",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3. School/School - Master.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "School - Master"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,18 +216,30 @@
   },
   "active": "f38f543eb704a640",
   "lastOpenFiles": [
-    "z_Assets/Pictures/Excalidraw/Pasted image 20250905105817.png",
-    "z_Excalidraw/Drawing 2025-09-05 10.52.30.excalidraw.md",
+    "3. School/Matematika v Přírodních Vědách/q1/MiS-q1-KUr-L1.md",
+    "Soustavy lineárních rovnic.md",
+    "3. School/Matematika v Přírodních Vědách/q1/testing what brokey.md",
+    "3. School/School - Master.md",
+    "clipboard_eb0a5158e88f1896dba3e3a40c20347ef.png",
+    "0c20bd61007a2b2733732eb1b1b27033.jpg",
+    "s-orb_shells.png",
+    "CNX_Chem_06_03_Oshapes 1.jpg",
+    "CNX_Chem_06_03_Oshapes.jpg",
+    "clipboard_eae1200552c2eda9beb00c54fc1c7c041.png",
+    "3. School/Biology/q1/bio-q1-MKe-Respiratory_System.md",
+    "Bohr_atom_model.svg.png",
+    "3. School/Matematika v Přírodních Vědách/q1",
+    "Home.md",
+    "3. School/Matematika v Přírodních Vědách",
     "3. School/Physics/q1/phys-q1-MKe-Electricity.md",
+    "z_Excalidraw/Drawing 2025-09-05 10.52.30.excalidraw.md",
+    "z_Assets/Pictures/Excalidraw/Pasted image 20250905105817.png",
     "z_Assets/Pictures/Excalidraw/Pasted Image 20250905105744_103.png",
     "z_Assets/Pictures/Excalidraw/Pasted Image 20250905105715_413.png",
     "z_Excalidraw/Drawing 2025-09-05 09.16.59.excalidraw.md",
-    "Home.md",
-    "3. School/School - Master.md",
     "3. School/Čeština/q1/cz-q1-OKo-Baroko_v_Evropě.md",
     "1. Blog Posts/Hello World.md",
     "1. Blog Posts/Eroticism of the Machine.md",
-    "3. School/Biology/q1/bio-q1-MKe-Respiratory_System.md",
     "3. School/Physics/q1",
     "3. School/Physics",
     "3. School/Math/q1",
@@ -221,29 +250,17 @@
     "3. School/Čeština",
     "3. School/OSZ/q1",
     "3. School/OSZ",
-    "3. School/Biology/q1",
-    "3. School/Biology",
     "2. Projects/Learning Rust/Notes/3. Lecture/Lecture - enum.md",
     "2. Projects/Learning Rust/Learning programming in Rust.md",
     "z_Excalidraw/Drawing 2025-07-27 22.02.27.excalidraw.md",
     "2. Projects/Learning Rust/Notes/2. Demo/Demo - Enum.md",
     "2. Projects/Learning Rust/Notes/2. Demo/Demo - Repetition using while.md",
-    "z_Excalidraw/Drawing 2025-07-26 15.01.37.excalidraw.png",
     "z_Excalidraw/Drawing 2025-07-27 21.44.54.excalidraw.md",
-    "z_Assets/Pictures/Excalidraw/Pasted image 20250727214739.png",
     "2. Projects/Learning Rust/Notes/2. Demo/Demo - Repetition using loop.md",
     "2. Projects/Learning Rust/Notes/2. Demo/Demo - Control flow with if & else.md",
-    "z_Assets/Pictures/Excalidraw/Pasted image 20250727214043.png",
     "z_Excalidraw/Drawing 2025-07-27 21.37.37.excalidraw.md",
     "2. Projects/Learning Rust/Notes/1. Fundamentals/Fundamentals - Match.md",
     "z_Excalidraw/Drawing 2025-07-26 20.12.25.excalidraw.md",
-    "z_Assets/Pictures/Excalidraw/Pasted image 20250726205623.png",
-    "z_Assets/Pictures/Excalidraw/Pasted image 20250726205616.png",
-    "z_Excalidraw/Drawing 2025-07-26 20.51.21.excalidraw.md",
-    "2. Projects/Learning Rust/Notes/2. Demo/Demo - Basic arithmetic.md",
-    "2. Projects/Learning Rust/Notes/2. Demo/Demo - Comments.md",
-    "z_Assets/Pictures/Excalidraw/Pasted image 20250726201731.png",
-    "Pasted image 20250726201443.png",
-    "z_Assets/Pictures/Excalidraw/Pasted image 20250726151756.png"
+    "z_Excalidraw/Drawing 2025-07-26 20.51.21.excalidraw.md"
   ]
 }
