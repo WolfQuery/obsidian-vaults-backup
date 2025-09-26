@@ -168,7 +168,33 @@ Note in Figure 6.6.1 that <mark style="background: #FF5582A6;">there is one type
 
 **Just as for s orbitals, as you move to higher principle quantum numbers the number of nodal surfaces increases,** <mark style="background: #FFB8EBA6;">but they are no longer simple planar surfaces</mark> (see **Figure 6.6.3**). [^4]
 
-
+> [!example] RECAP
+> $$
+> \begin{align}
+> n \rightarrow 1, 2, 3, \dots (\text{row of the periodic table}) \\
+> \ell \rightarrow s, p, d, f \ (\text{shape of the orbital}) \\
+> m \rightarrow (\text{the orentation of } \ell) \\
+> s \rightarrow \boxed{} \ (\text{the boxes with arrows, and the direction of electron spin})
+> \end{align}
+> $$
+---
+## Practice
+$$
+\begin{align}
+\ce{{}_{6}C}:1s\boxed{\uparrow\downarrow}; \ 2s\boxed{\uparrow\downarrow}; \ 2p\boxed{\uparrow}\boxed{\uparrow} \\
+\\
+\ce{CO \rightarrow |C=O\rangle} \\
+\\
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\\
+\ce{{}_{7}N}: 1s\boxed{\uparrow\downarrow} \ 2s\boxed{\uparrow\downarrow} \ 2p\boxed{\uparrow}\boxed{\uparrow}\boxed{\uparrow} \\
+\ce{{}_{1}H_3}:1s\boxed{\uparrow}\times3 \\\Downarrow \\
+\ce{H-N(:)-H} \\
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
+\\
+\ce{{}_{15}P}:1s\boxed{\uparrow\downarrow}\ 2s\boxed{\uparrow\downarrow}\ 3s\boxed{\uparrow\downarrow}\ 2p\boxed{\uparrow\downarrow}\boxed{\uparrow\downarrow}\ 3p\boxed{\uparrow}\boxed{\uparrow}\ 3d\boxed{\uparrow}\boxed{\uparrow}\boxed{\uparrow}
+\end{align}
+$$
 
 [^1]: https://chem.libretexts.org/Courses/University_of_Arkansas_Little_Rock/Chem_1402%3A_General_Chemistry_1_(Belford)/Text/6%3A_The_Structure_of_Atoms/6.5%3A_The_Modern_View_of_Electronic_Structure#Quantum_Numbers
 
