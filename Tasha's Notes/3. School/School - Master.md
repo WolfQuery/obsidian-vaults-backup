@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 ---
-	# School
+# School
 ## Biology
 ```dataview
 TABLE WITHOUT ID

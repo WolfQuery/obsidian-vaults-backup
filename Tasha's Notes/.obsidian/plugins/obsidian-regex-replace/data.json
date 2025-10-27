@@ -1,6 +1,6 @@
 {
-  "findText": "Ψ",
-  "replaceText": "$\\psi$",
+  "findText": "_{\\beta}",
+  "replaceText": "_{\\gama}",
   "useRegEx": true,
   "selOnly": false,
   "caseInsensitive": true,

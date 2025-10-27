@@ -1,3 +1,0 @@
-{{fromTitle}} : 
-{{content}}
-

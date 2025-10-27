@@ -4,25 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "33ce7d161e873a4d",
+        "id": "26904aa6fdef616b",
         "type": "tabs",
         "children": [
           {
-            "id": "5b45397719787982",
+            "id": "4d421111c9b68199",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. School/School - Master.md",
-                "mode": "source",
+                "file": "3. School/Matematika v Přírodních Vědách/q1/MiS-q1-KUr-L3.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "School - Master"
+              "title": "MiS-q1-KUr-L3"
             }
           },
           {
-            "id": "654914d3e11af1dd",
+            "id": "5f27550b27d21b1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -200,21 +200,28 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "654914d3e11af1dd",
+  "active": "5f27550b27d21b1d",
   "lastOpenFiles": [
+    "EU vs. Česko.md",
+    "3. School/Matematika v Přírodních Vědách/q1/MiS-q1-KUr-L3.md",
+    "3. School/Matematika v Přírodních Vědách/q1/testing what brokey.md",
+    "3. School/Matematika v Přírodních Vědách/q1/MiS-q1-KUr-L1.md",
+    "Quadratic formula - practice.md",
+    "3. School/Čeština/q1/cz-q1-OKo-Baroko_v_Evropě.md",
+    "Counting in 2D.md",
     "3. School/School - Master.md",
+    "š.md",
+    "Home.md",
+    "4. Galleries/Art Gallery.md",
     "z_Assets/Pictures/Screenshots/{CD798577-9C9E-4983-A776-8B6858EEEAA0}.png",
     "z_Assets/Pictures/Screenshots/s-orb_shells.png",
-    "Home.md",
     "z_Assets/Pictures/Screenshots/CNX_Chem_06_03_Oshapes 1.jpg",
     "z_Assets/Pictures/Screenshots/CNX_Chem_06_03_Oshapes.jpg",
     "z_Assets/Pictures/Screenshots/clipboard_eb0a5158e88f1896dba3e3a40c20347ef.png",
     "z_Assets/Pictures/Screenshots/clipboard_eae1200552c2eda9beb00c54fc1c7c041.png",
     "z_Assets/Pictures/Screenshots/Bohr_atom_model.svg.png",
     "z_Assets/Pictures/Screenshots/0c20bd61007a2b2733732eb1b1b27033.jpg",
-    "3. School/Matematika v Přírodních Vědách/q1/MiS-q1-KUr-L1.md",
     "Soustavy lineárních rovnic.md",
-    "3. School/Matematika v Přírodních Vědách/q1/testing what brokey.md",
     "3. School/Biology/q1/bio-q1-MKe-Respiratory_System.md",
     "3. School/Matematika v Přírodních Vědách/q1",
     "3. School/Matematika v Přírodních Vědách",
@@ -223,7 +230,6 @@
     "z_Assets/Pictures/Excalidraw/Pasted image 20250905105817.png",
     "z_Assets/Pictures/Excalidraw/Pasted Image 20250905105744_103.png",
     "z_Excalidraw/Drawing 2025-09-05 09.16.59.excalidraw.md",
-    "3. School/Čeština/q1/cz-q1-OKo-Baroko_v_Evropě.md",
     "1. Blog Posts/Hello World.md",
     "1. Blog Posts/Eroticism of the Machine.md",
     "3. School/Physics/q1",
@@ -241,11 +247,6 @@
     "z_Excalidraw/Drawing 2025-07-27 22.02.27.excalidraw.md",
     "2. Projects/Learning Rust/Notes/2. Demo/Demo - Enum.md",
     "2. Projects/Learning Rust/Notes/2. Demo/Demo - Repetition using while.md",
-    "z_Excalidraw/Drawing 2025-07-27 21.44.54.excalidraw.md",
-    "2. Projects/Learning Rust/Notes/2. Demo/Demo - Repetition using loop.md",
-    "2. Projects/Learning Rust/Notes/2. Demo/Demo - Control flow with if & else.md",
-    "z_Excalidraw/Drawing 2025-07-27 21.37.37.excalidraw.md",
-    "2. Projects/Learning Rust/Notes/1. Fundamentals/Fundamentals - Match.md",
-    "z_Excalidraw/Drawing 2025-07-26 20.12.25.excalidraw.md"
+    "z_Excalidraw/Drawing 2025-07-27 21.44.54.excalidraw.md"
   ]
 }

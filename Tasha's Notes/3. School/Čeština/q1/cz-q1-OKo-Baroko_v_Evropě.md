@@ -1,7 +1,7 @@
 ---
 dg-publish: true
 tags:
-  - school/czech/q1
+
   - lecture_notes
 title: Baroko v Evropě
 subject: czech
